@@ -1,0 +1,6 @@
+/target
+/.cpcache
+/.clj-kondo
+*.json
+*.csv
+.lsp

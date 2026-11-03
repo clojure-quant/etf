@@ -1,0 +1,4005 @@
+[{:portfolio-id 239726,
+  :ticker "IVV",
+  :name "iShares Core S&P 500 ETF",
+  :inception-date "May 15, 2000",
+  :net-assets "867,098,495,687",
+  :net-assets-value 8.6709849568687E11,
+  :product-url "/us/products/239726/ishares-core-s-p-500-etf"}
+ {:portfolio-id 244049,
+  :ticker "IEFA",
+  :name "iShares Core MSCI EAFE ETF",
+  :inception-date "Oct 18, 2012",
+  :net-assets "189,625,036,955",
+  :net-assets-value 1.8962503695497E11,
+  :product-url "/us/products/244049/ishares-core-msci-eafe-etf"}
+ {:portfolio-id 244050,
+  :ticker "IEMG",
+  :name "iShares Core MSCI Emerging Markets ETF",
+  :inception-date "Oct 18, 2012",
+  :net-assets "146,162,505,280",
+  :net-assets-value 1.4616250527979E11,
+  :product-url
+  "/us/products/244050/ishares-core-msci-emerging-markets-etf"}
+ {:portfolio-id 239458,
+  :ticker "AGG",
+  :name "iShares Core U.S. Aggregate Bond ETF",
+  :inception-date "Sep 22, 2003",
+  :net-assets "139,555,967,442",
+  :net-assets-value 1.3955596744212E11,
+  :product-url
+  "/us/products/239458/ishares-core-u-s-aggregate-bond-etf"}
+ {:portfolio-id 239763,
+  :ticker "IJH",
+  :name "iShares Core S&P Mid-Cap ETF",
+  :inception-date "May 22, 2000",
+  :net-assets "124,264,750,036",
+  :net-assets-value 1.2426475003569E11,
+  :product-url "/us/products/239763/ishares-core-s-p-mid-cap-etf"}
+ {:portfolio-id 239706,
+  :ticker "IWF",
+  :name "iShares Russell 1000 Growth ETF",
+  :inception-date "May 22, 2000",
+  :net-assets "118,954,193,739",
+  :net-assets-value 1.1895419373915E11,
+  :product-url "/us/products/239706/ishares-russell-1000-growth-etf"}
+ {:portfolio-id 314116,
+  :ticker "SGOV",
+  :name "iShares 0-3 Month Treasury Bond ETF",
+  :inception-date "May 26, 2020",
+  :net-assets "115,183,285,076",
+  :net-assets-value 1.1518328507615E11,
+  :product-url
+  "/us/products/314116/ishares-0-3-month-treasury-bond-etf"}
+ {:portfolio-id 239774,
+  :ticker "IJR",
+  :name "iShares Core S&P Small-Cap ETF",
+  :inception-date "May 22, 2000",
+  :net-assets "106,446,379,705",
+  :net-assets-value 1.0644637970538E11,
+  :product-url "/us/products/239774/ishares-core-s-p-small-cap-etf"}
+ {:portfolio-id 239724,
+  :ticker "ITOT",
+  :name "iShares Core S&P Total U.S. Stock Market ETF",
+  :inception-date "Jan 20, 2004",
+  :net-assets "95,060,882,024",
+  :net-assets-value 9.506088202444E10,
+  :product-url
+  "/us/products/239724/ishares-core-s-p-total-u-s-stock-market-etf"}
+ {:portfolio-id 239708,
+  :ticker "IWD",
+  :name "iShares Russell 1000 Value ETF",
+  :inception-date "May 22, 2000",
+  :net-assets "83,400,448,216",
+  :net-assets-value 8.340044821577E10,
+  :product-url "/us/products/239708/ishares-russell-1000-value-etf"}
+ {:portfolio-id 239623,
+  :ticker "EFA",
+  :name "iShares MSCI EAFE ETF",
+  :inception-date "Aug 14, 2001",
+  :net-assets "76,727,511,163",
+  :net-assets-value 7.672751116256E10,
+  :product-url "/us/products/239623/ishares-msci-eafe-etf"}
+ {:portfolio-id 239710,
+  :ticker "IWM",
+  :name "iShares Russell 2000 ETF",
+  :inception-date "May 22, 2000",
+  :net-assets "75,327,864,818",
+  :net-assets-value 7.53278648184E10,
+  :product-url "/us/products/239710/ishares-russell-2000-etf"}
+ {:portfolio-id 239725,
+  :ticker "IVW",
+  :name "iShares S&P 500 Growth ETF",
+  :inception-date "May 22, 2000",
+  :net-assets "73,610,423,471",
+  :net-assets-value 7.361042347111E10,
+  :product-url "/us/products/239725/ishares-s-p-500-growth-etf"}
+ {:portfolio-id 333011,
+  :ticker "IBIT",
+  :name "iShares Bitcoin Trust ETF",
+  :inception-date "Jan 05, 2024",
+  :net-assets "62,363,708,387",
+  :net-assets-value 6.236370838675E10,
+  :product-url "/us/products/333011/ishares-bitcoin-trust-etf"}
+ {:portfolio-id 239561,
+  :ticker "IAU",
+  :name "iShares Gold Trust",
+  :inception-date "Jan 21, 2005",
+  :net-assets "58,687,043,617",
+  :net-assets-value 5.868704361725E10,
+  :product-url "/us/products/239561/ishares-gold-trust"}
+ {:portfolio-id 239718,
+  :ticker "IWR",
+  :name "iShares Russell Mid-Cap ETF",
+  :inception-date "Jul 17, 2001",
+  :net-assets "58,168,297,516",
+  :net-assets-value 5.81682975162E10,
+  :product-url "/us/products/239718/ishares-russell-mid-cap-etf"}
+ {:portfolio-id 244048,
+  :ticker "IXUS",
+  :name "iShares Core MSCI Total International Stock ETF",
+  :inception-date "Oct 18, 2012",
+  :net-assets "56,945,082,845",
+  :net-assets-value 5.694508284452E10,
+  :product-url
+  "/us/products/244048/ishares-core-msci-total-international-stock-etf"}
+ {:portfolio-id 239766,
+  :ticker "MUB",
+  :name "iShares National Muni Bond ETF",
+  :inception-date "Sep 07, 2007",
+  :net-assets "54,468,019,925",
+  :net-assets-value 5.44680199247E10,
+  :product-url "/us/products/239766/ishares-national-muni-bond-etf"}
+ {:portfolio-id 239728,
+  :ticker "IVE",
+  :name "iShares S&P 500 Value ETF",
+  :inception-date "May 22, 2000",
+  :net-assets "50,852,911,539",
+  :net-assets-value 5.085291153868E10,
+  :product-url "/us/products/239728/ishares-s-p-500-value-etf"}
+ {:portfolio-id 264615,
+  :ticker "IUSB",
+  :name "iShares Core Universal USD Bond ETF",
+  :inception-date "Jun 10, 2014",
+  :net-assets "50,149,428,066",
+  :net-assets-value 5.01494280659E10,
+  :product-url
+  "/us/products/264615/ishares-core-universal-usd-bond-etf"}
+ {:portfolio-id 256101,
+  :ticker "QUAL",
+  :name "iShares MSCI USA Quality Factor ETF",
+  :inception-date "Jul 16, 2013",
+  :net-assets "48,021,587,409",
+  :net-assets-value 4.802158740888E10,
+  :product-url
+  "/us/products/256101/ishares-msci-usa-quality-factor-etf"}
+ {:portfolio-id 239454,
+  :ticker "TLT",
+  :name "iShares 20+ Year Treasury Bond ETF",
+  :inception-date "Jul 22, 2002",
+  :net-assets "47,860,489,571",
+  :net-assets-value 4.78604895706E10,
+  :product-url
+  "/us/products/239454/ishares-20%20-year-treasury-bond-etf"}
+ {:portfolio-id 239707,
+  :ticker "IWB",
+  :name "iShares Russell 1000 ETF",
+  :inception-date "May 15, 2000",
+  :net-assets "47,600,931,642",
+  :net-assets-value 4.760093164212E10,
+  :product-url "/us/products/239707/ishares-russell-1000-etf"}
+ {:portfolio-id 264623,
+  :ticker "DGRO",
+  :name "iShares Core Dividend Growth ETF",
+  :inception-date "Jun 10, 2014",
+  :net-assets "45,359,113,187",
+  :net-assets-value 4.535911318697E10,
+  :product-url "/us/products/264623/ishares-core-dividend-growth-etf"}
+ {:portfolio-id 239456,
+  :ticker "IEF",
+  :name "iShares 7-10 Year Treasury Bond ETF",
+  :inception-date "Jul 22, 2002",
+  :net-assets "44,091,621,519",
+  :net-assets-value 4.40916215193E10,
+  :product-url
+  "/us/products/239456/ishares-7-10-year-treasury-bond-etf"}
+ {:portfolio-id 239468,
+  :ticker "GOVT",
+  :name "iShares U.S. Treasury Bond ETF",
+  :inception-date "Feb 14, 2012",
+  :net-assets "43,119,337,572",
+  :net-assets-value 4.311933757227E10,
+  :product-url "/us/products/239468/ishares-u-s-treasury-bond-etf"}
+ {:portfolio-id 239705,
+  :ticker "SOXX",
+  :name "iShares Semiconductor ETF",
+  :inception-date "Jul 10, 2001",
+  :net-assets "42,973,254,884",
+  :net-assets-value 4.297325488436E10,
+  :product-url "/us/products/239705/ishares-semiconductor-etf"}
+ {:portfolio-id 307283,
+  :ticker "DYNF",
+  :name "iShares U.S. Equity Factor Rotation Active ETF",
+  :inception-date "Mar 19, 2019",
+  :net-assets "41,504,689,797",
+  :net-assets-value 4.150468979678E10,
+  :product-url
+  "/us/products/307283/ishares-u-s-equity-factor-rotation-active-etf"}
+ {:portfolio-id 239465,
+  :ticker "MBB",
+  :name "iShares MBS ETF",
+  :inception-date "Mar 13, 2007",
+  :net-assets "35,829,112,112",
+  :net-assets-value 3.58291121119E10,
+  :product-url "/us/products/239465/ishares-mbs-etf"}
+ {:portfolio-id 286762,
+  :ticker "IDEV",
+  :name "iShares Core MSCI International Developed Markets ETF",
+  :inception-date "Mar 21, 2017",
+  :net-assets "33,856,104,872",
+  :net-assets-value 3.385610487175E10,
+  :product-url
+  "/us/products/286762/ishares-core-msci-international-developed-markets-etf"}
+ {:portfolio-id 239713,
+  :ticker "IUSG",
+  :name "iShares Core S&P U.S. Growth ETF",
+  :inception-date "Jul 24, 2000",
+  :net-assets "32,186,118,083",
+  :net-assets-value 3.218611808269E10,
+  :product-url "/us/products/239713/ishares-core-s-p-u-s-growth-etf"}
+ {:portfolio-id 239600,
+  :ticker "ACWI",
+  :name "iShares MSCI ACWI ETF",
+  :inception-date "Mar 26, 2008",
+  :net-assets "32,185,096,863",
+  :net-assets-value 3.218509686328E10,
+  :product-url "/us/products/239600/ishares-msci-acwi-etf"}
+ {:portfolio-id 239566,
+  :ticker "LQD",
+  :name "iShares iBoxx $ Investment Grade Corporate Bond ETF",
+  :inception-date "Jul 22, 2002",
+  :net-assets "32,087,662,865",
+  :net-assets-value 3.208766286537E10,
+  :product-url
+  "/us/products/239566/ishares-iboxx-investment-grade-corporate-bond-etf"}
+ {:portfolio-id 239628,
+  :ticker "EFV",
+  :name "iShares MSCI EAFE Value ETF",
+  :inception-date "Aug 01, 2005",
+  :net-assets "30,471,274,126",
+  :net-assets-value 3.047127412596E10,
+  :product-url "/us/products/239628/ishares-msci-eafe-value-etf"}
+ {:portfolio-id 239715,
+  :ticker "IUSV",
+  :name "iShares Core S&P U.S. Value ETF",
+  :inception-date "Jul 24, 2000",
+  :net-assets "28,509,168,503",
+  :net-assets-value 2.850916850329E10,
+  :product-url "/us/products/239715/ishares-core-s-p-u-s-value-etf"}
+ {:portfolio-id 239637,
+  :ticker "EEM",
+  :name "iShares MSCI Emerging Markets ETF",
+  :inception-date "Apr 07, 2003",
+  :net-assets "28,289,319,408",
+  :net-assets-value 2.828931940805E10,
+  :product-url "/us/products/239637/ishares-msci-emerging-markets-etf"}
+ {:portfolio-id 239452,
+  :ticker "SHY",
+  :name "iShares 1-3 Year Treasury Bond ETF",
+  :inception-date "Jul 22, 2002",
+  :net-assets "27,397,365,016",
+  :net-assets-value 2.739736501586E10,
+  :product-url
+  "/us/products/239452/ishares-1-3-year-treasury-bond-etf"}
+ {:portfolio-id 291299,
+  :ticker "USHY",
+  :name "iShares Broad USD High Yield Corporate Bond ETF",
+  :inception-date "Oct 25, 2017",
+  :net-assets "26,821,899,282",
+  :net-assets-value 2.682189928236E10,
+  :product-url
+  "/us/products/291299/ishares-broad-usd-high-yield-corporate-bond-etf"}
+ {:portfolio-id 288504,
+  :ticker "EMXC",
+  :name "iShares MSCI Emerging Markets ex China ETF",
+  :inception-date "Jul 18, 2017",
+  :net-assets "25,399,813,700",
+  :net-assets-value 2.539981369959E10,
+  :product-url
+  "/us/products/288504/ishares-msci-emerging-markets-ex-china-etf"}
+ {:portfolio-id 239855,
+  :ticker "SLV",
+  :name "iShares Silver Trust",
+  :inception-date "Apr 21, 2006",
+  :net-assets "25,384,376,246",
+  :net-assets-value 2.538437624638E10,
+  :product-url "/us/products/239855/ishares-silver-trust"}
+ {:portfolio-id 239695,
+  :ticker "USMV",
+  :name "iShares MSCI USA Min Vol Factor ETF",
+  :inception-date "Oct 18, 2011",
+  :net-assets "24,112,953,561",
+  :net-assets-value 2.411295356112E10,
+  :product-url
+  "/us/products/239695/ishares-msci-usa-min-vol-factor-etf"}
+ {:portfolio-id 239500,
+  :ticker "DVY",
+  :name "iShares Select Dividend ETF",
+  :inception-date "Nov 03, 2003",
+  :net-assets "23,787,179,340",
+  :net-assets-value 2.378717934008E10,
+  :product-url "/us/products/239500/ishares-select-dividend-etf"}
+ {:portfolio-id 239451,
+  :ticker "IGSB",
+  :name "iShares 1-5 Year Investment Grade Corporate Bond ETF",
+  :inception-date "Jan 05, 2007",
+  :net-assets "23,651,011,861",
+  :net-assets-value 2.365101186115E10,
+  :product-url
+  "/us/products/239451/ishares-1-5-year-investment-grade-corporate-bond-etf"}
+ {:portfolio-id 308765,
+  :ticker "BSPGX",
+  :name "iShares S&P 500 Index Fund",
+  :inception-date "Jul 01, 2019",
+  :net-assets "23,374,920,591",
+  :net-assets-value 2.337492059134E10,
+  :product-url "/us/products/308765/ishares-s-p-500-index-fund"}
+ {:portfolio-id 239665,
+  :ticker "EWJ",
+  :name "iShares MSCI Japan ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "23,235,785,651",
+  :net-assets-value 2.323578565051E10,
+  :product-url "/us/products/239665/ishares-msci-japan-etf"}
+ {:portfolio-id 239522,
+  :ticker "IYW",
+  :name "iShares U.S. Technology ETF",
+  :inception-date "May 15, 2000",
+  :net-assets "23,197,103,555",
+  :net-assets-value 2.319710355524E10,
+  :product-url "/us/products/239522/ishares-u-s-technology-etf"}
+ {:portfolio-id 239681,
+  :ticker "EWY",
+  :name "iShares MSCI South Korea ETF",
+  :inception-date "May 09, 2000",
+  :net-assets "22,398,407,300",
+  :net-assets-value 2.239840730017E10,
+  :product-url "/us/products/239681/ishares-msci-south-korea-etf"}
+ {:portfolio-id 239466,
+  :ticker "SHV",
+  :name "iShares 0–1 Year Treasury Bond ETF",
+  :inception-date "Jan 05, 2007",
+  :net-assets "21,257,578,590",
+  :net-assets-value 2.12575785899E10,
+  :product-url "/us/products/239466/ishares-01-year-treasury-bond-etf"}
+ {:portfolio-id 230317,
+  :ticker "WFSPX",
+  :name "iShares S&P 500 Index Fund",
+  :inception-date "Jul 31, 1993",
+  :net-assets "20,893,527,898",
+  :net-assets-value 2.08935278975E10,
+  :product-url "/us/products/230317/ishares-s-p-500-index-fund"}
+ {:portfolio-id 239714,
+  :ticker "IWV",
+  :name "iShares Russell 3000 ETF",
+  :inception-date "May 22, 2000",
+  :net-assets "20,105,381,283",
+  :net-assets-value 2.010538128281E10,
+  :product-url "/us/products/239714/ishares-russell-3000-etf"}
+ {:portfolio-id 239723,
+  :ticker "OEF",
+  :name "iShares S&P 100 ETF",
+  :inception-date "Oct 23, 2000",
+  :net-assets "19,869,432,444",
+  :net-assets-value 1.98694324441E10,
+  :product-url "/us/products/239723/ishares-s-p-100-etf"}
+ {:portfolio-id 239463,
+  :ticker "IGIB",
+  :name "iShares 5-10 Year Investment Grade Corporate Bond ETF",
+  :inception-date "Jan 05, 2007",
+  :net-assets "19,515,345,147",
+  :net-assets-value 1.951534514686E10,
+  :product-url
+  "/us/products/239463/ishares-5-10-year-investment-grade-corporate-bond-etf"}
+ {:portfolio-id 239717,
+  :ticker "IWP",
+  :name "iShares Russell Mid-Cap Growth ETF",
+  :inception-date "Jul 17, 2001",
+  :net-assets "18,275,776,385",
+  :net-assets-value 1.827577638548E10,
+  :product-url
+  "/us/products/239717/ishares-russell-mid-cap-growth-etf"}
+ {:portfolio-id 239460,
+  :ticker "USIG",
+  :name "iShares Broad USD Investment Grade Corporate Bond ETF",
+  :inception-date "Jan 05, 2007",
+  :net-assets "17,927,740,511",
+  :net-assets-value 1.792774051075E10,
+  :product-url
+  "/us/products/239460/ishares-broad-usd-investment-grade-corporate-bond-etf"}
+ {:portfolio-id 286007,
+  :ticker "ESGU",
+  :name "iShares ESG Aware MSCI USA ETF",
+  :inception-date "Dec 01, 2016",
+  :net-assets "17,726,060,343",
+  :net-assets-value 1.772606034259E10,
+  :product-url "/us/products/286007/ishares-esg-aware-msci-usa-etf"}
+ {:portfolio-id 239594,
+  :ticker "ACWX",
+  :name "iShares MSCI ACWI ex U.S. ETF",
+  :inception-date "Mar 26, 2008",
+  :net-assets "17,714,561,737",
+  :net-assets-value 1.771456173707E10,
+  :product-url "/us/products/239594/ishares-msci-acwi-ex-u-s-etf"}
+ {:portfolio-id 239565,
+  :ticker "HYG",
+  :name "iShares iBoxx $ High Yield Corporate Bond ETF",
+  :inception-date "Apr 04, 2007",
+  :net-assets "17,542,534,719",
+  :net-assets-value 1.754253471902E10,
+  :product-url
+  "/us/products/239565/ishares-iboxx-high-yield-corporate-bond-etf"}
+ {:portfolio-id 251614,
+  :ticker "MTUM",
+  :name "iShares MSCI USA Momentum Factor ETF",
+  :inception-date "Apr 16, 2013",
+  :net-assets "17,153,409,662",
+  :net-assets-value 1.715340966157E10,
+  :product-url
+  "/us/products/251614/ishares-msci-usa-momentum-factor-etf"}
+ {:portfolio-id 239455,
+  :ticker "IEI",
+  :name "iShares 3-7 Year Treasury Bond ETF",
+  :inception-date "Jan 05, 2007",
+  :net-assets "16,966,310,147",
+  :net-assets-value 1.696631014691E10,
+  :product-url
+  "/us/products/239455/ishares-3-7-year-treasury-bond-etf"}
+ {:portfolio-id 239450,
+  :ticker "STIP",
+  :name "iShares 0-5 Year TIPS Bond ETF",
+  :inception-date "Dec 01, 2010",
+  :net-assets "16,854,642,875",
+  :net-assets-value 1.68546428748E10,
+  :product-url "/us/products/239450/ishares-0-5-year-tips-bond-etf"}
+ {:portfolio-id 331752,
+  :ticker "BINC",
+  :name "iShares Flexible Income Active ETF",
+  :inception-date "May 19, 2023",
+  :net-assets "16,839,467,728",
+  :net-assets-value 1.683946772845E10,
+  :product-url
+  "/us/products/331752/ishares-flexible-income-active-etf"}
+ {:portfolio-id 239563,
+  :ticker "HDV",
+  :name "iShares Core High Dividend ETF",
+  :inception-date "Mar 29, 2011",
+  :net-assets "16,366,893,073",
+  :net-assets-value 1.636689307338E10,
+  :product-url "/us/products/239563/ishares-core-high-dividend-etf"}
+ {:portfolio-id 239719,
+  :ticker "IWS",
+  :name "iShares Russell Mid-Cap Value ETF",
+  :inception-date "Jul 17, 2001",
+  :net-assets "15,048,853,790",
+  :net-assets-value 1.504885378951E10,
+  :product-url "/us/products/239719/ishares-russell-mid-cap-value-etf"}
+ {:portfolio-id 239622,
+  :ticker "EFG",
+  :name "iShares MSCI EAFE Growth ETF",
+  :inception-date "Aug 01, 2005",
+  :net-assets "14,999,034,567",
+  :net-assets-value 1.49990345673E10,
+  :product-url "/us/products/239622/ishares-msci-eafe-growth-etf"}
+ {:portfolio-id 239720,
+  :ticker "IWY",
+  :name "iShares Russell Top 200 Growth ETF",
+  :inception-date "Sep 22, 2009",
+  :net-assets "14,884,188,379",
+  :net-assets-value 1.488418837909E10,
+  :product-url
+  "/us/products/239720/ishares-russell-top-200-growth-etf"}
+ {:portfolio-id 239467,
+  :ticker "TIP",
+  :name "iShares TIPS Bond ETF",
+  :inception-date "Dec 04, 2003",
+  :net-assets "14,600,153,409",
+  :net-assets-value 1.460015340889E10,
+  :product-url "/us/products/239467/ishares-tips-bond-etf"}
+ {:portfolio-id 239712,
+  :ticker "IWN",
+  :name "iShares Russell 2000 Value ETF",
+  :inception-date "Jul 24, 2000",
+  :net-assets "14,154,417,781",
+  :net-assets-value 1.41544177808E10,
+  :product-url "/us/products/239712/ishares-russell-2000-value-etf"}
+ {:portfolio-id 239709,
+  :ticker "IWO",
+  :name "iShares Russell 2000 Growth ETF",
+  :inception-date "Jul 24, 2000",
+  :net-assets "13,800,666,119",
+  :net-assets-value 1.380066611917E10,
+  :product-url "/us/products/239709/ishares-russell-2000-growth-etf"}
+ {:portfolio-id 271540,
+  :ticker "IQLT",
+  :name "iShares MSCI Intl Quality Factor ETF",
+  :inception-date "Jan 13, 2015",
+  :net-assets "13,756,659,787",
+  :net-assets-value 1.375665978695E10,
+  :product-url
+  "/us/products/271540/ishares-msci-intl-quality-factor-etf"}
+ {:portfolio-id 239572,
+  :ticker "EMB",
+  :name "iShares J.P. Morgan USD Emerging Markets Bond ETF",
+  :inception-date "Dec 17, 2007",
+  :net-assets "13,534,579,468",
+  :net-assets-value 1.353457946805E10,
+  :product-url
+  "/us/products/239572/ishares-j-p-morgan-usd-emerging-markets-bond-etf"}
+ {:portfolio-id 340366,
+  :ticker "CORO",
+  :name "iShares International Country Rotation Active ETF",
+  :inception-date "Dec 03, 2024",
+  :net-assets "13,410,998,442",
+  :net-assets-value 1.341099844227E10,
+  :product-url
+  "/us/products/340366/ishares-international-country-rotation-active-etf"}
+ {:portfolio-id 239772,
+  :ticker "SUB",
+  :name "iShares Short-Term National Muni Bond ETF",
+  :inception-date "Nov 05, 2008",
+  :net-assets "13,304,715,009",
+  :net-assets-value 1.330471500942E10,
+  :product-url
+  "/us/products/239772/ishares-short-term-national-muni-bond-etf"}
+ {:portfolio-id 279626,
+  :ticker "IAGG",
+  :name "iShares Core International Aggregate Bond ETF",
+  :inception-date "Nov 10, 2015",
+  :net-assets "12,918,414,641",
+  :net-assets-value 1.291841464051E10,
+  :product-url
+  "/us/products/279626/ishares-core-international-aggregate-bond-etf"}
+ {:portfolio-id 239627,
+  :ticker "SCZ",
+  :name "iShares MSCI EAFE Small-Cap ETF",
+  :inception-date "Dec 10, 2007",
+  :net-assets "12,782,416,886",
+  :net-assets-value 1.27824168857E10,
+  :product-url "/us/products/239627/ishares-msci-eafe-small-cap-etf"}
+ {:portfolio-id 239771,
+  :ticker "IGV",
+  :name "iShares Expanded Tech-Software Sector ETF",
+  :inception-date "Jul 10, 2001",
+  :net-assets "12,759,062,022",
+  :net-assets-value 1.275906202245E10,
+  :product-url
+  "/us/products/239771/ishares-expanded-tech-software-sector-etf"}
+ {:portfolio-id 239502,
+  :ticker "ITA",
+  :name "iShares U.S. Aerospace & Defense ETF",
+  :inception-date "May 01, 2006",
+  :net-assets "12,434,462,598",
+  :net-assets-value 1.243446259811E10,
+  :product-url "/us/products/239502/ishares-u-s-aerospace-defense-etf"}
+ {:portfolio-id 239453,
+  :ticker "TLH",
+  :name "iShares 10-20 Year Treasury Bond ETF",
+  :inception-date "Jan 05, 2007",
+  :net-assets "12,234,114,890",
+  :net-assets-value 1.223411488964E10,
+  :product-url
+  "/us/products/239453/ishares-10-20-year-treasury-bond-etf"}
+ {:portfolio-id 283778,
+  :ticker "ESGD",
+  :name "iShares ESG Aware MSCI EAFE ETF",
+  :inception-date "Jun 28, 2016",
+  :net-assets "11,797,010,364",
+  :net-assets-value 1.179701036402E10,
+  :product-url "/us/products/283778/ishares-esg-aware-msci-eafe-etf"}
+ {:portfolio-id 339081,
+  :ticker "BAI",
+  :name "iShares A.I. Innovation and Tech Active ETF",
+  :inception-date "Oct 21, 2024",
+  :net-assets "11,696,470,946",
+  :net-assets-value 1.169647094635E10,
+  :product-url
+  "/us/products/339081/ishares-a-i-innovation-and-tech-active-etf"}
+ {:portfolio-id 239534,
+  :ticker "FLOT",
+  :name "iShares Floating Rate Bond ETF",
+  :inception-date "Jun 14, 2011",
+  :net-assets "11,622,971,847",
+  :net-assets-value 1.162297184651E10,
+  :product-url "/us/products/239534/ishares-floating-rate-bond-etf"}
+ {:portfolio-id 239826,
+  :ticker "PFF",
+  :name "iShares Preferred and Income Securities ETF",
+  :inception-date "Mar 26, 2007",
+  :net-assets "11,580,397,561",
+  :net-assets-value 1.15803975614E10,
+  :product-url
+  "/us/products/239826/ishares-preferred-and-income-securities-etf"}
+ {:portfolio-id 239699,
+  :ticker "IBB",
+  :name "iShares Biotechnology ETF",
+  :inception-date "Feb 05, 2001",
+  :net-assets "11,278,680,353",
+  :net-assets-value 1.127868035311E10,
+  :product-url "/us/products/239699/ishares-biotechnology-etf"}
+ {:portfolio-id 239746,
+  :ticker "IGF",
+  :name "iShares Global Infrastructure ETF",
+  :inception-date "Dec 10, 2007",
+  :net-assets "10,905,470,869",
+  :net-assets-value 1.090547086907E10,
+  :product-url "/us/products/239746/ishares-global-infrastructure-etf"}
+ {:portfolio-id 239686,
+  :ticker "EWT",
+  :name "iShares MSCI Taiwan ETF",
+  :inception-date "Jun 20, 2000",
+  :net-assets "10,898,649,556",
+  :net-assets-value 1.089864955591E10,
+  :product-url "/us/products/239686/ishares-msci-taiwan-etf"}
+ {:portfolio-id 239762,
+  :ticker "IJK",
+  :name "iShares S&P Mid-Cap 400 Growth ETF",
+  :inception-date "Jul 24, 2000",
+  :net-assets "10,381,189,689",
+  :net-assets-value 1.038118968893E10,
+  :product-url
+  "/us/products/239762/ishares-s-p-mid-cap-400-growth-etf"}
+ {:portfolio-id 239769,
+  :ticker "IGM",
+  :name "iShares Expanded Tech Sector ETF",
+  :inception-date "Mar 13, 2001",
+  :net-assets "10,164,706,963",
+  :net-assets-value 1.016470696301E10,
+  :product-url "/us/products/239769/ishares-expanded-tech-sector-etf"}
+ {:portfolio-id 239612,
+  :ticker "EWZ",
+  :name "iShares MSCI Brazil ETF",
+  :inception-date "Jul 10, 2000",
+  :net-assets "9,563,547,247",
+  :net-assets-value 9.56354724749E9,
+  :product-url "/us/products/239612/ishares-msci-brazil-etf"}
+ {:portfolio-id 333889,
+  :ticker "BLCR",
+  :name "iShares Large Cap Core Active ETF",
+  :inception-date "Oct 24, 2023",
+  :net-assets "9,557,241,300",
+  :net-assets-value 9.55724130012E9,
+  :product-url "/us/products/333889/ishares-large-cap-core-active-etf"}
+ {:portfolio-id 264617,
+  :ticker "IEUR",
+  :name "iShares Core MSCI Europe ETF",
+  :inception-date "Jun 10, 2014",
+  :net-assets "9,547,492,385",
+  :net-assets-value 9.54749238516E9,
+  :product-url "/us/products/264617/ishares-core-msci-europe-etf"}
+ {:portfolio-id 251616,
+  :ticker "VLUE",
+  :name "iShares MSCI USA Value Factor ETF",
+  :inception-date "Apr 16, 2013",
+  :net-assets "9,325,741,504",
+  :net-assets-value 9.325741504E9,
+  :product-url "/us/products/251616/ishares-msci-usa-value-factor-etf"}
+ {:portfolio-id 239644,
+  :ticker "EZU",
+  :name "iShares MSCI Eurozone ETF",
+  :inception-date "Jul 25, 2000",
+  :net-assets "9,164,042,423",
+  :net-assets-value 9.16404242304E9,
+  :product-url "/us/products/239644/ishares-msci-eurozone-etf"}
+ {:portfolio-id 239737,
+  :ticker "IOO",
+  :name "iShares Global 100 ETF",
+  :inception-date "Dec 05, 2000",
+  :net-assets "9,007,281,463",
+  :net-assets-value 9.00728146326E9,
+  :product-url "/us/products/239737/ishares-global-100-etf"}
+ {:portfolio-id 239696,
+  :ticker "URTH",
+  :name "iShares MSCI World ETF",
+  :inception-date "Jan 10, 2012",
+  :net-assets "8,987,921,832",
+  :net-assets-value 8.98792183182E9,
+  :product-url "/us/products/239696/ishares-msci-world-etf"}
+ {:portfolio-id 258806,
+  :ticker "ICSH",
+  :name "iShares Ultra Short Duration Bond Active ETF",
+  :inception-date "Dec 11, 2013",
+  :net-assets "8,942,135,479",
+  :net-assets-value 8.94213547879E9,
+  :product-url
+  "/us/products/258806/ishares-ultra-short-duration-bond-active-etf"}
+ {:portfolio-id 239764,
+  :ticker "IJJ",
+  :name "iShares S&P Mid-Cap 400 Value ETF",
+  :inception-date "Jul 24, 2000",
+  :net-assets "8,824,071,446",
+  :net-assets-value 8.824071446E9,
+  :product-url "/us/products/239764/ishares-s-p-mid-cap-400-value-etf"}
+ {:portfolio-id 239750,
+  :ticker "IXN",
+  :name "iShares Global Tech ETF",
+  :inception-date "Nov 12, 2001",
+  :net-assets "8,690,909,854",
+  :net-assets-value 8.69090985397E9,
+  :product-url "/us/products/239750/ishares-global-tech-etf"}
+ {:portfolio-id 239499,
+  :ticker "IDV",
+  :name "iShares International Select Dividend ETF",
+  :inception-date "Jun 11, 2007",
+  :net-assets "8,304,429,558",
+  :net-assets-value 8.30442955761E9,
+  :product-url
+  "/us/products/239499/ishares-international-select-dividend-etf"}
+ {:portfolio-id 306979,
+  :ticker "IAUM",
+  :name "iShares Gold Trust Micro",
+  :inception-date "Jun 15, 2021",
+  :net-assets "7,985,133,423",
+  :net-assets-value 7.98513342261E9,
+  :product-url "/us/products/306979/ishares-gold-trust-micro"}
+ {:portfolio-id 346898,
+  :ticker "IALT",
+  :name "iShares Systematic Alternatives Active ETF",
+  :inception-date "Dec 09, 2025",
+  :net-assets "7,875,191,993",
+  :net-assets-value 7.87519199329E9,
+  :product-url
+  "/us/products/346898/ishares-systematic-alternatives-active-etf"}
+ {:portfolio-id 239775,
+  :ticker "IJS",
+  :name "iShares S&P Small-Cap 600 Value ETF",
+  :inception-date "Jul 24, 2000",
+  :net-assets "7,784,581,043",
+  :net-assets-value 7.7845810425E9,
+  :product-url
+  "/us/products/239775/ishares-s-p-small-cap-600-value-etf"}
+ {:portfolio-id 258100,
+  :ticker "SHYG",
+  :name "iShares 0-5 Year High Yield Corporate Bond ETF",
+  :inception-date "Oct 15, 2013",
+  :net-assets "7,722,343,419",
+  :net-assets-value 7.72234341879E9,
+  :product-url
+  "/us/products/258100/ishares-0-5-year-high-yield-corporate-bond-etf"}
+ {:portfolio-id 227725,
+  :ticker "BTMKX",
+  :name "iShares MSCI EAFE International Index Fund",
+  :inception-date "Mar 31, 2011",
+  :net-assets "7,650,612,756",
+  :net-assets-value 7.65061275571E9,
+  :product-url
+  "/us/products/227725/ishares-msci-eafe-international-index-fund"}
+ {:portfolio-id 239615,
+  :ticker "EWC",
+  :name "iShares MSCI Canada ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "7,598,605,484",
+  :net-assets-value 7.59860548415E9,
+  :product-url "/us/products/239615/ishares-msci-canada-etf"}
+ {:portfolio-id 259622,
+  :ticker "HEFA",
+  :name "iShares Currency Hedged MSCI EAFE ETF",
+  :inception-date "Jan 31, 2014",
+  :net-assets "7,561,732,520",
+  :net-assets-value 7.56173251982E9,
+  :product-url
+  "/us/products/259622/ishares-currency-hedged-msci-eafe-etf"}
+ {:portfolio-id 239773,
+  :ticker "IJT",
+  :name "iShares S&P Small-Cap 600 Growth ETF",
+  :inception-date "Jul 24, 2000",
+  :net-assets "7,488,920,303",
+  :net-assets-value 7.48892030254E9,
+  :product-url
+  "/us/products/239773/ishares-s-p-small-cap-600-growth-etf"}
+ {:portfolio-id 260652,
+  :ticker "TFLO",
+  :name "iShares Treasury Floating Rate Bond ETF",
+  :inception-date "Feb 03, 2014",
+  :net-assets "7,310,680,165",
+  :net-assets-value 7.31068016523E9,
+  :product-url
+  "/us/products/260652/ishares-treasury-floating-rate-bond-etf"}
+ {:portfolio-id 325384,
+  :ticker "THRO",
+  :name "iShares U.S. Thematic Rotation Active ETF",
+  :inception-date "Dec 14, 2021",
+  :net-assets "7,264,751,033",
+  :net-assets-value 7.26475103326E9,
+  :product-url
+  "/us/products/325384/ishares-u-s-thematic-rotation-active-etf"}
+ {:portfolio-id 272819,
+  :ticker "ICVT",
+  :name "iShares Convertible Bond ETF",
+  :inception-date "Jun 02, 2015",
+  :net-assets "7,234,514,912",
+  :net-assets-value 7.23451491187E9,
+  :product-url "/us/products/272819/ishares-convertible-bond-etf"}
+ {:portfolio-id 251378,
+  :ticker "BSPIX",
+  :name "iShares S&P 500 Index Fund",
+  :inception-date "Apr 11, 2013",
+  :net-assets "7,137,331,789",
+  :net-assets-value 7.13733178944E9,
+  :product-url "/us/products/251378/ishares-s-p-500-index-fund"}
+ {:portfolio-id 337614,
+  :ticker "ETHA",
+  :name "iShares Ethereum Trust ETF",
+  :inception-date "Jun 24, 2024",
+  :net-assets "6,957,093,766",
+  :net-assets-value 6.95709376633E9,
+  :product-url "/us/products/337614/ishares-ethereum-trust-etf"}
+ {:portfolio-id 283777,
+  :ticker "ESGE",
+  :name "iShares ESG Aware MSCI EM ETF",
+  :inception-date "Jun 28, 2016",
+  :net-assets "6,244,966,913",
+  :net-assets-value 6.24496691335E9,
+  :product-url "/us/products/283777/ishares-esg-aware-msci-em-etf"}
+ {:portfolio-id 239659,
+  :ticker "INDA",
+  :name "iShares MSCI India ETF",
+  :inception-date "Feb 02, 2012",
+  :net-assets "5,940,989,350",
+  :net-assets-value 5.94098935025E9,
+  :product-url "/us/products/239659/ishares-msci-india-etf"}
+ {:portfolio-id 239619,
+  :ticker "MCHI",
+  :name "iShares MSCI China ETF",
+  :inception-date "Mar 29, 2011",
+  :net-assets "5,565,073,770",
+  :net-assets-value 5.5650737697E9,
+  :product-url "/us/products/239619/ishares-msci-china-etf"}
+ {:portfolio-id 239626,
+  :ticker "EFAV",
+  :name "iShares MSCI EAFE Min Vol Factor ETF",
+  :inception-date "Oct 18, 2011",
+  :net-assets "5,519,575,054",
+  :net-assets-value 5.51957505393E9,
+  :product-url
+  "/us/products/239626/ishares-msci-eafe-min-vol-factor-etf"}
+ {:portfolio-id 239731,
+  :ticker "CMF",
+  :name "iShares California Muni Bond ETF",
+  :inception-date "Oct 04, 2007",
+  :net-assets "5,379,415,759",
+  :net-assets-value 5.37941575859E9,
+  :product-url "/us/products/239731/ishares-california-muni-bond-etf"}
+ {:portfolio-id 244051,
+  :ticker "ISTB",
+  :name "iShares Core 1-5 Year USD Bond ETF",
+  :inception-date "Oct 18, 2012",
+  :net-assets "5,353,722,076",
+  :net-assets-value 5.35372207623E9,
+  :product-url
+  "/us/products/244051/ishares-core-1-5-year-usd-bond-etf"}
+ {:portfolio-id 239667,
+  :ticker "DSI",
+  :name "iShares ESG MSCI KLD 400 ETF",
+  :inception-date "Nov 14, 2006",
+  :net-assets "5,321,774,410",
+  :net-assets-value 5.32177441023E9,
+  :product-url "/us/products/239667/ishares-esg-msci-kld-400-etf"}
+ {:portfolio-id 239854,
+  :ticker "NEAR",
+  :name "iShares Short Duration Bond Active ETF",
+  :inception-date "Sep 25, 2013",
+  :net-assets "5,199,187,995",
+  :net-assets-value 5.19918799536E9,
+  :product-url
+  "/us/products/239854/ishares-short-duration-bond-active-etf"}
+ {:portfolio-id 305252,
+  :ticker "EAGG",
+  :name "iShares ESG Aware U.S. Aggregate Bond ETF",
+  :inception-date "Oct 18, 2018",
+  :net-assets "5,096,791,215",
+  :net-assets-value 5.09679121459E9,
+  :product-url
+  "/us/products/305252/ishares-esg-aware-u-s-aggregate-bond-etf"}
+ {:portfolio-id 268752,
+  :ticker "REET",
+  :name "iShares Global REIT ETF",
+  :inception-date "Jul 08, 2014",
+  :net-assets "4,810,298,003",
+  :net-assets-value 4.81029800265E9,
+  :product-url "/us/products/268752/ishares-global-reit-etf"}
+ {:portfolio-id 239511,
+  :ticker "IYH",
+  :name "iShares U.S. Healthcare ETF",
+  :inception-date "Jun 12, 2000",
+  :net-assets "4,692,272,313",
+  :net-assets-value 4.69227231296E9,
+  :product-url "/us/products/239511/ishares-u-s-healthcare-etf"}
+ {:portfolio-id 239744,
+  :ticker "IXJ",
+  :name "iShares Global Healthcare ETF",
+  :inception-date "Nov 13, 2001",
+  :net-assets "4,646,785,540",
+  :net-assets-value 4.64678553963E9,
+  :product-url "/us/products/239744/ishares-global-healthcare-etf"}
+ {:portfolio-id 239730,
+  :ticker "AIA",
+  :name "iShares Asia 50 ETF",
+  :inception-date "Nov 13, 2007",
+  :net-assets "4,531,137,388",
+  :net-assets-value 4.53113738818E9,
+  :product-url "/us/products/239730/ishares-asia-50-etf"}
+ {:portfolio-id 275382,
+  :ticker "IVLU",
+  :name "iShares MSCI Intl Value Factor ETF",
+  :inception-date "Jun 16, 2015",
+  :net-assets "4,511,173,218",
+  :net-assets-value 4.51117321816E9,
+  :product-url
+  "/us/products/275382/ishares-msci-intl-value-factor-etf"}
+ {:portfolio-id 343573,
+  :ticker "GGOV",
+  :name "iShares Global Government Bond USD Hedged Active ETF",
+  :inception-date "Jun 25, 2025",
+  :net-assets "4,326,177,969",
+  :net-assets-value 4.32617796888E9,
+  :product-url
+  "/us/products/343573/ishares-global-government-bond-usd-hedged-active-etf"}
+ {:portfolio-id 239544,
+  :ticker "USRT",
+  :name "iShares Core U.S. REIT ETF",
+  :inception-date "May 01, 2007",
+  :net-assets "4,285,803,398",
+  :net-assets-value 4.28580339832E9,
+  :product-url "/us/products/239544/ishares-core-u-s-reit-etf"}
+ {:portfolio-id 276539,
+  :ticker "BKTSX",
+  :name "iShares Total U.S. Stock Market Index Fund",
+  :inception-date "Aug 13, 2015",
+  :net-assets "4,255,406,489",
+  :net-assets-value 4.25540648885E9,
+  :product-url
+  "/us/products/276539/ishares-total-u-s-stock-market-index-fund"}
+ {:portfolio-id 272825,
+  :ticker "SMLF",
+  :name "iShares U.S. Small-Cap Equity Factor ETF",
+  :inception-date "Apr 28, 2015",
+  :net-assets "4,221,892,809",
+  :net-assets-value 4.22189280883E9,
+  :product-url
+  "/us/products/272825/ishares-u-s-small-cap-equity-factor-etf"}
+ {:portfolio-id 288024,
+  :ticker "SMMD",
+  :name "iShares Russell 2500 ETF",
+  :inception-date "Jul 06, 2017",
+  :net-assets "4,198,037,567",
+  :net-assets-value 4.19803756727E9,
+  :product-url "/us/products/288024/ishares-russell-2500-etf"}
+ {:portfolio-id 271538,
+  :ticker "IMTM",
+  :name "iShares MSCI Intl Momentum Factor ETF",
+  :inception-date "Jan 13, 2015",
+  :net-assets "4,153,646,155",
+  :net-assets-value 4.15364615481E9,
+  :product-url
+  "/us/products/271538/ishares-msci-intl-momentum-factor-etf"}
+ {:portfolio-id 304570,
+  :ticker "IBDT",
+  :name "iShares® iBonds® Dec 2028 Term Corporate ETF",
+  :inception-date "Sep 18, 2018",
+  :net-assets "4,143,613,503",
+  :net-assets-value 4.14361350315E9,
+  :product-url
+  "/us/products/304570/ishares-ibonds-dec-2028-term-corporate-etf"}
+ {:portfolio-id 294315,
+  :ticker "IFRA",
+  :name "iShares U.S. Infrastructure ETF",
+  :inception-date "Apr 03, 2018",
+  :net-assets "4,090,530,994",
+  :net-assets-value 4.09053099359E9,
+  :product-url "/us/products/294315/ishares-u-s-infrastructure-etf"}
+ {:portfolio-id 239583,
+  :ticker "IMCG",
+  :name "iShares Morningstar Mid-Cap Growth ETF",
+  :inception-date "Jun 28, 2004",
+  :net-assets "4,034,363,626",
+  :net-assets-value 4.03436362647E9,
+  :product-url
+  "/us/products/239583/ishares-morningstar-mid-cap-growth-etf"}
+ {:portfolio-id 239520,
+  :ticker "IYR",
+  :name "iShares U.S. Real Estate ETF",
+  :inception-date "Jun 12, 2000",
+  :net-assets "4,029,616,347",
+  :net-assets-value 4.02961634738E9,
+  :product-url "/us/products/239520/ishares-u-s-real-estate-etf"}
+ {:portfolio-id 310035,
+  :ticker "IBDU",
+  :name "iShares® iBonds® Dec 2029 Term Corporate ETF",
+  :inception-date "Sep 17, 2019",
+  :net-assets "4,029,356,813",
+  :net-assets-value 4.02935681292E9,
+  :product-url
+  "/us/products/310035/ishares-ibonds-dec-2029-term-corporate-etf"}
+ {:portfolio-id 239692,
+  :ticker "SUSA",
+  :name "iShares ESG Optimized MSCI USA ETF",
+  :inception-date "Jan 24, 2005",
+  :net-assets "4,016,989,483",
+  :net-assets-value 4.01698948321E9,
+  :product-url
+  "/us/products/239692/ishares-esg-optimized-msci-usa-etf"}
+ {:portfolio-id 290315,
+  :ticker "IBDS",
+  :name "iShares® iBonds® Dec 2027 Term Corporate ETF",
+  :inception-date "Sep 12, 2017",
+  :net-assets "3,993,140,184",
+  :net-assets-value 3.99314018412E9,
+  :product-url
+  "/us/products/290315/ishares-ibonds-dec-2027-term-corporate-etf"}
+ {:portfolio-id 272532,
+  :ticker "XT",
+  :name "iShares Future Exponential Technologies ETF",
+  :inception-date "Mar 19, 2015",
+  :net-assets "3,956,935,105",
+  :net-assets-value 3.95693510478E9,
+  :product-url
+  "/us/products/272532/ishares-future-exponential-technologies-etf"}
+ {:portfolio-id 239756,
+  :ticker "AOR",
+  :name "iShares Core 60/40 Balanced Allocation ETF",
+  :inception-date "Nov 04, 2008",
+  :net-assets "3,894,096,474",
+  :net-assets-value 3.89409647397E9,
+  :product-url
+  "/us/products/239756/ishares-core-60-40-balanced-allocation-etf"}
+ {:portfolio-id 239722,
+  :ticker "IWX",
+  :name "iShares Russell Top 200 Value ETF",
+  :inception-date "Sep 22, 2009",
+  :net-assets "3,887,530,250",
+  :net-assets-value 3.88753024979E9,
+  :product-url "/us/products/239722/ishares-russell-top-200-value-etf"}
+ {:portfolio-id 239464,
+  :ticker "GVI",
+  :name "iShares Intermediate Government/Credit Bond ETF",
+  :inception-date "Jan 05, 2007",
+  :net-assets "3,850,550,252",
+  :net-assets-value 3.85055025192E9,
+  :product-url
+  "/us/products/239464/ishares-intermediate-government-credit-bond-etf"}
+ {:portfolio-id 239536,
+  :ticker "FXI",
+  :name "iShares China Large-Cap ETF",
+  :inception-date "Oct 05, 2004",
+  :net-assets "3,816,664,788",
+  :net-assets-value 3.81666478798E9,
+  :product-url "/us/products/239536/ishares-china-large-cap-etf"}
+ {:portfolio-id 239508,
+  :ticker "IYF",
+  :name "iShares U.S. Financials ETF",
+  :inception-date "May 22, 2000",
+  :net-assets "3,794,799,445",
+  :net-assets-value 3.79479944486E9,
+  :product-url "/us/products/239508/ishares-u-s-financials-etf"}
+ {:portfolio-id 239690,
+  :ticker "EWU",
+  :name "iShares MSCI United Kingdom ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "3,741,657,548",
+  :net-assets-value 3.74165754825E9,
+  :product-url "/us/products/239690/ishares-msci-united-kingdom-etf"}
+ {:portfolio-id 239516,
+  :ticker "IHI",
+  :name "iShares U.S. Medical Devices ETF",
+  :inception-date "May 01, 2006",
+  :net-assets "3,741,314,361",
+  :net-assets-value 3.74131436072E9,
+  :product-url "/us/products/239516/ishares-u-s-medical-devices-etf"}
+ {:portfolio-id 251379,
+  :ticker "BSPAX",
+  :name "iShares S&P 500 Index Fund",
+  :inception-date "Apr 11, 2013",
+  :net-assets "3,721,215,814",
+  :net-assets-value 3.72121581365E9,
+  :product-url "/us/products/251379/ishares-s-p-500-index-fund"}
+ {:portfolio-id 272822,
+  :ticker "INTF",
+  :name "iShares International Equity Factor ETF",
+  :inception-date "Apr 28, 2015",
+  :net-assets "3,703,716,061",
+  :net-assets-value 3.70371606054E9,
+  :product-url
+  "/us/products/272822/ishares-international-equity-factor-etf"}
+ {:portfolio-id 343529,
+  :ticker "IDEF",
+  :name "iShares Defense Industrials and Tech Active ETF",
+  :inception-date "May 19, 2025",
+  :net-assets "3,687,703,103",
+  :net-assets-value 3.68770310289E9,
+  :product-url
+  "/us/products/343529/ishares-defense-industrials-and-tech-active-etf"}
+ {:portfolio-id 272824,
+  :ticker "LRGF",
+  :name "iShares U.S. Equity Factor ETF",
+  :inception-date "Apr 28, 2015",
+  :net-assets "3,628,856,414",
+  :net-assets-value 3.62885641408E9,
+  :product-url "/us/products/272824/ishares-u-s-equity-factor-etf"}
+ {:portfolio-id 239601,
+  :ticker "AAXJ",
+  :name "iShares MSCI All Country Asia ex Japan ETF",
+  :inception-date "Aug 13, 2008",
+  :net-assets "3,605,292,031",
+  :net-assets-value 3.60529203074E9,
+  :product-url
+  "/us/products/239601/ishares-msci-all-country-asia-ex-japan-etf"}
+ {:portfolio-id 297905,
+  :ticker "ARTY",
+  :name "iShares Future AI & Tech ETF",
+  :inception-date "Jun 26, 2018",
+  :net-assets "3,524,792,913",
+  :net-assets-value 3.52479291288E9,
+  :product-url "/us/products/297905/ishares-future-ai-tech-etf"}
+ {:portfolio-id 239605,
+  :ticker "ACWV",
+  :name "iShares MSCI Global Min Vol Factor ETF",
+  :inception-date "Oct 18, 2011",
+  :net-assets "3,445,301,725",
+  :net-assets-value 3.44530172542E9,
+  :product-url
+  "/us/products/239605/ishares-msci-global-min-vol-factor-etf"}
+ {:portfolio-id 312212,
+  :ticker "GARP",
+  :name "iShares MSCI USA Quality GARP ETF",
+  :inception-date "Jan 14, 2020",
+  :net-assets "3,422,264,340",
+  :net-assets-value 3.42226433975E9,
+  :product-url "/us/products/312212/ishares-msci-usa-quality-garp-etf"}
+ {:portfolio-id 314496,
+  :ticker "IBDV",
+  :name "iShares® iBonds® Dec 2030 Term Corporate ETF",
+  :inception-date "Jun 23, 2020",
+  :net-assets "3,406,248,911",
+  :net-assets-value 3.40624891094E9,
+  :product-url
+  "/us/products/314496/ishares-ibonds-dec-2030-term-corporate-etf"}
+ {:portfolio-id 239641,
+  :ticker "EEMV",
+  :name "iShares MSCI Emerging Markets Min Vol Factor ETF",
+  :inception-date "Oct 18, 2011",
+  :net-assets "3,399,314,607",
+  :net-assets-value 3.39931460675E9,
+  :product-url
+  "/us/products/239641/ishares-msci-emerging-markets-min-vol-factor-etf"}
+ {:portfolio-id 239761,
+  :ticker "ILF",
+  :name "iShares Latin America 40 ETF",
+  :inception-date "Oct 25, 2001",
+  :net-assets "3,369,818,260",
+  :net-assets-value 3.36981825954E9,
+  :product-url "/us/products/239761/ishares-latin-america-40-etf"}
+ {:portfolio-id 239741,
+  :ticker "IXC",
+  :name "iShares Global Energy ETF",
+  :inception-date "Nov 12, 2001",
+  :net-assets "3,349,860,901",
+  :net-assets-value 3.34986090119E9,
+  :product-url "/us/products/239741/ishares-global-energy-etf"}
+ {:portfolio-id 239729,
+  :ticker "AOA",
+  :name "iShares Core 80/20 Aggressive Allocation ETF",
+  :inception-date "Nov 04, 2008",
+  :net-assets "3,311,030,098",
+  :net-assets-value 3.31103009752E9,
+  :product-url
+  "/us/products/239729/ishares-core-80-20-aggressive-allocation-etf"}
+ {:portfolio-id 332826,
+  :ticker "BTMGX",
+  :name "iShares MSCI EAFE International Index Fund",
+  :inception-date "Aug 01, 2023",
+  :net-assets "3,274,628,068",
+  :net-assets-value 3.27462806823E9,
+  :product-url
+  "/us/products/332826/ishares-msci-eafe-international-index-fund"}
+ {:portfolio-id 345325,
+  :ticker "BDYN",
+  :name "iShares Dynamic Equity Active ETF",
+  :inception-date "Jun 01, 2017",
+  :net-assets "3,089,299,998",
+  :net-assets-value 3.08929999808E9,
+  :product-url "/us/products/345325/ishares-dynamic-equity-active-etf"}
+ {:portfolio-id 239685,
+  :ticker "EWL",
+  :name "iShares MSCI Switzerland ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "3,057,080,415",
+  :net-assets-value 3.05708041537E9,
+  :product-url "/us/products/239685/ishares-msci-switzerland-etf"}
+ {:portfolio-id 239580,
+  :ticker "ILCG",
+  :name "iShares Morningstar Growth ETF",
+  :inception-date "Jun 28, 2004",
+  :net-assets "2,966,066,907",
+  :net-assets-value 2.96606690713E9,
+  :product-url "/us/products/239580/ishares-morningstar-growth-etf"}
+ {:portfolio-id 227787,
+  :ticker "WFBIX",
+  :name "iShares U.S. Aggregate Bond Index Fund",
+  :inception-date "Jul 02, 1993",
+  :net-assets "2,955,909,267",
+  :net-assets-value 2.95590926702E9,
+  :product-url
+  "/us/products/227787/ishares-u-s-aggregate-bond-index-fund"}
+ {:portfolio-id 239645,
+  :ticker "EUFN",
+  :name "iShares MSCI Europe Financials ETF",
+  :inception-date "Jan 20, 2010",
+  :net-assets "2,950,162,804",
+  :net-assets-value 2.95016280407E9,
+  :product-url
+  "/us/products/239645/ishares-msci-europe-financials-etf"}
+ {:portfolio-id 239513,
+  :ticker "IYY",
+  :name "iShares Dow Jones U.S. ETF",
+  :inception-date "Jun 12, 2000",
+  :net-assets "2,943,587,000",
+  :net-assets-value 2.94358700034E9,
+  :product-url "/us/products/239513/ishares-dow-jones-u-s-etf"}
+ {:portfolio-id 330488,
+  :ticker "CLOA",
+  :name "iShares AAA CLO Active ETF",
+  :inception-date "Jan 10, 2023",
+  :net-assets "2,790,654,906",
+  :net-assets-value 2.79065490645E9,
+  :product-url "/us/products/330488/ishares-aaa-clo-active-etf"}
+ {:portfolio-id 341516,
+  :ticker "HIMU",
+  :name "iShares High Yield Muni Active ETF",
+  :inception-date "Aug 01, 2006",
+  :net-assets "2,782,922,890",
+  :net-assets-value 2.78292288974E9,
+  :product-url
+  "/us/products/341516/ishares-high-yield-muni-active-etf"}
+ {:portfolio-id 285027,
+  :ticker "IBDR",
+  :name "iShares® iBonds® Dec 2026 Term Corporate ETF",
+  :inception-date "Sep 13, 2016",
+  :net-assets "2,778,941,716",
+  :net-assets-value 2.77894171556E9,
+  :product-url
+  "/us/products/285027/ishares-ibonds-dec-2026-term-corporate-etf"}
+ {:portfolio-id 227755,
+  :ticker "BDBKX",
+  :name "iShares Russell 2000 Small-Cap Index Fund",
+  :inception-date "Mar 31, 2011",
+  :net-assets "2,749,034,123",
+  :net-assets-value 2.74903412318E9,
+  :product-url
+  "/us/products/227755/ishares-russell-2000-small-cap-index-fund"}
+ {:portfolio-id 296644,
+  :ticker "ESML",
+  :name "iShares ESG Aware MSCI USA Small-Cap ETF",
+  :inception-date "Apr 10, 2018",
+  :net-assets "2,746,869,747",
+  :net-assets-value 2.74686974667E9,
+  :product-url
+  "/us/products/296644/ishares-esg-aware-msci-usa-small-cap-etf"}
+ {:portfolio-id 319154,
+  :ticker "IBDW",
+  :name "iShares® iBonds® Dec 2031 Term Corporate ETF",
+  :inception-date "Jun 22, 2021",
+  :net-assets "2,711,174,615",
+  :net-assets-value 2.71117461508E9,
+  :product-url
+  "/us/products/319154/ishares-ibonds-dec-2031-term-corporate-etf"}
+ {:portfolio-id 239423,
+  :ticker "IGLB",
+  :name "iShares 10+ Year Investment Grade Corporate Bond ETF",
+  :inception-date "Dec 08, 2009",
+  :net-assets "2,683,413,171",
+  :net-assets-value 2.68341317085E9,
+  :product-url
+  "/us/products/239423/ishares-10%20-year-investment-grade-corporate-bond-etf"}
+ {:portfolio-id 264619,
+  :ticker "IPAC",
+  :name "iShares Core MSCI Pacific ETF",
+  :inception-date "Jun 10, 2014",
+  :net-assets "2,669,840,664",
+  :net-assets-value 2.66984066351E9,
+  :product-url "/us/products/264619/ishares-core-msci-pacific-etf"}
+ {:portfolio-id 332075,
+  :ticker "USCL",
+  :name "iShares Climate Conscious & Transition MSCI USA ETF",
+  :inception-date "Jun 06, 2023",
+  :net-assets "2,662,784,792",
+  :net-assets-value 2.66278479249E9,
+  :product-url
+  "/us/products/332075/ishares-climate-conscious-transition-msci-usa-etf"}
+ {:portfolio-id 239512,
+  :ticker "ITB",
+  :name "iShares U.S. Home Construction ETF",
+  :inception-date "May 01, 2006",
+  :net-assets "2,459,627,534",
+  :net-assets-value 2.45962753438E9,
+  :product-url "/us/products/239512/ishares-u-s-home-construction-etf"}
+ {:portfolio-id 258098,
+  :ticker "SLQD",
+  :name "iShares 0-5 Year Investment Grade Corporate Bond ETF",
+  :inception-date "Oct 15, 2013",
+  :net-assets "2,437,223,230",
+  :net-assets-value 2.43722323006E9,
+  :product-url
+  "/us/products/258098/ishares-0-5-year-investment-grade-corporate-bond-etf"}
+ {:portfolio-id 312460,
+  :ticker "IBTH",
+  :name "iShares® iBonds® Dec 2027 Term Treasury ETF",
+  :inception-date "Feb 25, 2020",
+  :net-assets "2,432,087,678",
+  :net-assets-value 2.43208767788E9,
+  :product-url
+  "/us/products/312460/ishares-ibonds-dec-2027-term-treasury-etf"}
+ {:portfolio-id 325725,
+  :ticker "PABU",
+  :name "iShares Paris-Aligned Climate Optimized MSCI USA ETF",
+  :inception-date "Feb 08, 2022",
+  :net-assets "2,379,100,718",
+  :net-assets-value 2.37910071786E9,
+  :product-url
+  "/us/products/325725/ishares-paris-aligned-climate-optimized-msci-usa-etf"}
+ {:portfolio-id 298415,
+  :ticker "BSPPX",
+  :name "iShares S&P 500 Index Fund",
+  :inception-date "Aug 06, 2018",
+  :net-assets "2,361,423,192",
+  :net-assets-value 2.36142319242E9,
+  :product-url "/us/products/298415/ishares-s-p-500-index-fund"}
+ {:portfolio-id 291387,
+  :ticker "DIVB",
+  :name "iShares Core Dividend ETF",
+  :inception-date "Nov 07, 2017",
+  :net-assets "2,312,869,993",
+  :net-assets-value 2.31286999348E9,
+  :product-url "/us/products/291387/ishares-core-dividend-etf"}
+ {:portfolio-id 239509,
+  :ticker "IYG",
+  :name "iShares U.S. Financial Services ETF",
+  :inception-date "Jun 12, 2000",
+  :net-assets "2,274,050,137",
+  :net-assets-value 2.27405013678E9,
+  :product-url
+  "/us/products/239509/ishares-u-s-financial-services-etf"}
+ {:portfolio-id 312463,
+  :ticker "IBTI",
+  :name "iShares® iBonds® Dec 2028 Term Treasury ETF",
+  :inception-date "Feb 25, 2020",
+  :net-assets "2,263,737,381",
+  :net-assets-value 2.26373738116E9,
+  :product-url
+  "/us/products/312463/ishares-ibonds-dec-2028-term-treasury-etf"}
+ {:portfolio-id 239674,
+  :ticker "EPP",
+  :name "iShares MSCI Pacific ex Japan ETF",
+  :inception-date "Oct 25, 2001",
+  :net-assets "2,233,240,932",
+  :net-assets-value 2.23324093191E9,
+  :product-url "/us/products/239674/ishares-msci-pacific-ex-japan-etf"}
+ {:portfolio-id 239721,
+  :ticker "IWL",
+  :name "iShares Russell Top 200 ETF",
+  :inception-date "Sep 22, 2009",
+  :net-assets "2,194,239,680",
+  :net-assets-value 2.1942396801E9,
+  :product-url "/us/products/239721/ishares-russell-top-200-etf"}
+ {:portfolio-id 239655,
+  :ticker "PICK",
+  :name "iShares MSCI Global Metals & Mining Producers ETF",
+  :inception-date "Jan 31, 2012",
+  :net-assets "2,177,239,134",
+  :net-assets-value 2.17723913353E9,
+  :product-url
+  "/us/products/239655/ishares-msci-global-metals-mining-producers-etf"}
+ {:portfolio-id 350747,
+  :ticker "BFLX",
+  :name "iShares Flexible Equity Active ETF",
+  :inception-date "May 19, 2026",
+  :net-assets "2,155,320,751",
+  :net-assets-value 2.15532075103E9,
+  :product-url
+  "/us/products/350747/ishares-flexible-equity-active-etf"}
+ {:portfolio-id 239654,
+  :ticker "RING",
+  :name "iShares MSCI Global Gold Miners ETF",
+  :inception-date "Jan 31, 2012",
+  :net-assets "2,111,982,263",
+  :net-assets-value 2.11198226252E9,
+  :product-url
+  "/us/products/239654/ishares-msci-global-gold-miners-etf"}
+ {:portfolio-id 275312,
+  :ticker "BRMKX",
+  :name "iShares Russell Mid-Cap Index Fund",
+  :inception-date "May 13, 2015",
+  :net-assets "2,110,587,903",
+  :net-assets-value 2.11058790276E9,
+  :product-url
+  "/us/products/275312/ishares-russell-mid-cap-index-fund"}
+ {:portfolio-id 239501,
+  :ticker "IYT",
+  :name "iShares U.S. Transportation ETF",
+  :inception-date "Oct 06, 2003",
+  :net-assets "2,039,771,536",
+  :net-assets-value 2.03977153646E9,
+  :product-url "/us/products/239501/ishares-u-s-transportation-etf"}
+ {:portfolio-id 239482,
+  :ticker "ICF",
+  :name "iShares Select U.S. REIT ETF",
+  :inception-date "Jan 29, 2001",
+  :net-assets "1,998,405,054",
+  :net-assets-value 1.99840505399E9,
+  :product-url "/us/products/239482/ishares-select-u-s-reit-etf"}
+ {:portfolio-id 239738,
+  :ticker "ICLN",
+  :name "iShares Global Clean Energy ETF",
+  :inception-date "Jun 24, 2008",
+  :net-assets "1,992,349,583",
+  :net-assets-value 1.99234958317E9,
+  :product-url "/us/products/239738/ishares-global-clean-energy-etf"}
+ {:portfolio-id 239683,
+  :ticker "EWP",
+  :name "iShares MSCI Spain ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "1,962,007,047",
+  :net-assets-value 1.96200704656E9,
+  :product-url "/us/products/239683/ishares-msci-spain-etf"}
+ {:portfolio-id 251601,
+  :ticker "BSPSX",
+  :name "iShares S&P 500 Index Fund",
+  :inception-date "Apr 22, 2013",
+  :net-assets "1,938,243,111",
+  :net-assets-value 1.93824311103E9,
+  :product-url "/us/products/251601/ishares-s-p-500-index-fund"}
+ {:portfolio-id 239693,
+  :ticker "EUSA",
+  :name "iShares MSCI USA Equal Weighted ETF",
+  :inception-date "May 05, 2010",
+  :net-assets "1,893,198,733",
+  :net-assets-value 1.8931987328E9,
+  :product-url
+  "/us/products/239693/ishares-msci-usa-equal-weighted-etf"}
+ {:portfolio-id 227726,
+  :ticker "MAIIX",
+  :name "iShares MSCI EAFE International Index Fund",
+  :inception-date "Apr 09, 1997",
+  :net-assets "1,888,114,757",
+  :net-assets-value 1.88811475697E9,
+  :product-url
+  "/us/products/227726/ishares-msci-eafe-international-index-fund"}
+ {:portfolio-id 239765,
+  :ticker "AOM",
+  :name "iShares Core 40/60 Moderate Allocation ETF",
+  :inception-date "Nov 04, 2008",
+  :net-assets "1,877,681,824",
+  :net-assets-value 1.8776818244E9,
+  :product-url
+  "/us/products/239765/ishares-core-40-60-moderate-allocation-etf"}
+ {:portfolio-id 239507,
+  :ticker "IYE",
+  :name "iShares U.S. Energy ETF",
+  :inception-date "Jun 12, 2000",
+  :net-assets "1,873,314,509",
+  :net-assets-value 1.87331450906E9,
+  :product-url "/us/products/239507/ishares-u-s-energy-etf"}
+ {:portfolio-id 239514,
+  :ticker "IYJ",
+  :name "iShares U.S. Industrials ETF",
+  :inception-date "Jun 12, 2000",
+  :net-assets "1,854,696,004",
+  :net-assets-value 1.85469600387E9,
+  :product-url "/us/products/239514/ishares-u-s-industrials-etf"}
+ {:portfolio-id 312457,
+  :ticker "IBTG",
+  :name "iShares® iBonds® Dec 2026 Term Treasury ETF",
+  :inception-date "Feb 25, 2020",
+  :net-assets "1,854,226,827",
+  :net-assets-value 1.85422682742E9,
+  :product-url
+  "/us/products/312457/ishares-ibonds-dec-2026-term-treasury-etf"}
+ {:portfolio-id 342170,
+  :ticker "LMUB",
+  :name "iShares Long-Term National Muni Bond ETF",
+  :inception-date "Mar 17, 2025",
+  :net-assets "1,828,832,952",
+  :net-assets-value 1.82883295209E9,
+  :product-url
+  "/us/products/342170/ishares-long-term-national-muni-bond-etf"}
+ {:portfolio-id 328675,
+  :ticker "IBDX",
+  :name "iShares® iBonds® Dec 2032 Term Corporate ETF",
+  :inception-date "Jun 28, 2022",
+  :net-assets "1,810,555,884",
+  :net-assets-value 1.81055588391E9,
+  :product-url
+  "/us/products/328675/ishares-ibonds-dec-2032-term-corporate-etf"}
+ {:portfolio-id 272820,
+  :ticker "EMGF",
+  :name "iShares Emerging Markets Equity Factor ETF",
+  :inception-date "Dec 08, 2015",
+  :net-assets "1,788,861,310",
+  :net-assets-value 1.78886130953E9,
+  :product-url
+  "/us/products/272820/ishares-emerging-markets-equity-factor-etf"}
+ {:portfolio-id 345327,
+  :ticker "BDVL",
+  :name "iShares Disciplined Volatility Equity Active ETF",
+  :inception-date "Jun 01, 2017",
+  :net-assets "1,773,448,145",
+  :net-assets-value 1.7734481446E9,
+  :product-url
+  "/us/products/345327/ishares-disciplined-volatility-equity-active-etf"}
+ {:portfolio-id 239767,
+  :ticker "NYF",
+  :name "iShares New York Muni Bond ETF",
+  :inception-date "Oct 04, 2007",
+  :net-assets "1,767,381,337",
+  :net-assets-value 1.767381337E9,
+  :product-url "/us/products/239767/ishares-new-york-muni-bond-etf"}
+ {:portfolio-id 239582,
+  :ticker "IMCB",
+  :name "iShares Morningstar Mid-Cap ETF",
+  :inception-date "Jun 28, 2004",
+  :net-assets "1,750,126,591",
+  :net-assets-value 1.75012659062E9,
+  :product-url "/us/products/239582/ishares-morningstar-mid-cap-etf"}
+ {:portfolio-id 283855,
+  :ticker "FALN",
+  :name "iShares Fallen Angels USD Bond ETF",
+  :inception-date "Jun 14, 2016",
+  :net-assets "1,725,055,138",
+  :net-assets-value 1.7250551377E9,
+  :product-url
+  "/us/products/283855/ishares-fallen-angels-usd-bond-etf"}
+ {:portfolio-id 227859,
+  :ticker "BRGKX",
+  :name "iShares Russell 1000 Large-Cap Index Fund",
+  :inception-date "Mar 31, 2011",
+  :net-assets "1,648,355,616",
+  :net-assets-value 1.64835561555E9,
+  :product-url
+  "/us/products/227859/ishares-russell-1000-large-cap-index-fund"}
+ {:portfolio-id 329118,
+  :ticker "TLTW",
+  :name "iShares TLT Premium Income+ ETF",
+  :inception-date "Aug 18, 2022",
+  :net-assets "1,622,447,623",
+  :net-assets-value 1.62244762342E9,
+  :product-url
+  "/us/products/329118/ishares-20%20-year-treasury-bond-buywrite-strategy-etf"}
+ {:portfolio-id 239670,
+  :ticker "EWW",
+  :name "iShares MSCI Mexico ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "1,613,120,710",
+  :net-assets-value 1.61312070972E9,
+  :product-url "/us/products/239670/ishares-msci-mexico-etf"}
+ {:portfolio-id 239519,
+  :ticker "IHE",
+  :name "iShares U.S. Pharmaceuticals ETF",
+  :inception-date "May 01, 2006",
+  :net-assets "1,612,898,805",
+  :net-assets-value 1.61289880497E9,
+  :product-url "/us/products/239519/ishares-u-s-pharmaceuticals-etf"}
+ {:portfolio-id 239650,
+  :ticker "EWG",
+  :name "iShares MSCI Germany ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "1,580,575,875",
+  :net-assets-value 1.58057587475E9,
+  :product-url "/us/products/239650/ishares-msci-germany-etf"}
+ {:portfolio-id 239736,
+  :ticker "IEV",
+  :name "iShares Europe ETF",
+  :inception-date "Jul 25, 2000",
+  :net-assets "1,572,693,658",
+  :net-assets-value 1.57269365814E9,
+  :product-url "/us/products/239736/ishares-europe-etf"}
+ {:portfolio-id 312466,
+  :ticker "IBTJ",
+  :name "iShares® iBonds® Dec 2029 Term Treasury ETF",
+  :inception-date "Feb 25, 2020",
+  :net-assets "1,559,432,023",
+  :net-assets-value 1.5594320234E9,
+  :product-url
+  "/us/products/312466/ishares-ibonds-dec-2029-term-treasury-etf"}
+ {:portfolio-id 272112,
+  :ticker "MEAR",
+  :name "iShares Short Maturity Municipal Bond Active ETF",
+  :inception-date "Mar 03, 2015",
+  :net-assets "1,529,030,855",
+  :net-assets-value 1.52903085543E9,
+  :product-url
+  "/us/products/272112/ishares-short-maturity-municipal-bond-active-etf"}
+ {:portfolio-id 333207,
+  :ticker "BALI",
+  :name "iShares U.S. Large Cap Premium Income Active ETF",
+  :inception-date "Sep 26, 2023",
+  :net-assets "1,527,754,234",
+  :net-assets-value 1.52775423441E9,
+  :product-url
+  "/us/products/333207/ishares-u-s-large-cap-premium-income-active-etf"}
+ {:portfolio-id 288478,
+  :ticker "HYDB",
+  :name "iShares High Yield Systematic Bond ETF",
+  :inception-date "Jul 11, 2017",
+  :net-assets "1,518,033,074",
+  :net-assets-value 1.51803307414E9,
+  :product-url
+  "/us/products/288478/ishares-high-yield-systematic-bond-etf"}
+ {:portfolio-id 239505,
+  :ticker "IYK",
+  :name "iShares U.S. Consumer Staples ETF",
+  :inception-date "Jun 12, 2000",
+  :net-assets "1,475,425,440",
+  :net-assets-value 1.47542543984E9,
+  :product-url "/us/products/239505/ishares-u-s-consumer-staples-etf"}
+ {:portfolio-id 239510,
+  :ticker "IHF",
+  :name "iShares U.S. Healthcare Providers ETF",
+  :inception-date "May 01, 2006",
+  :net-assets "1,454,609,365",
+  :net-assets-value 1.45460936521E9,
+  :product-url
+  "/us/products/239510/ishares-u-s-healthcare-providers-etf"}
+ {:portfolio-id 288302,
+  :ticker "IGEB",
+  :name "iShares Investment Grade Systematic Bond ETF",
+  :inception-date "Jul 11, 2017",
+  :net-assets "1,447,220,742",
+  :net-assets-value 1.44722074222E9,
+  :product-url
+  "/us/products/288302/ishares-investment-grade-systematic-bond-etf"}
+ {:portfolio-id 239524,
+  :ticker "IDU",
+  :name "iShares U.S. Utilities ETF",
+  :inception-date "Jun 12, 2000",
+  :net-assets "1,435,131,154",
+  :net-assets-value 1.43513115366E9,
+  :product-url "/us/products/239524/ishares-u-s-utilities-etf"}
+ {:portfolio-id 227832,
+  :ticker "BDOKX",
+  :name "iShares MSCI Total International Index Fund",
+  :inception-date "Jun 30, 2011",
+  :net-assets "1,422,142,161",
+  :net-assets-value 1.42214216094E9,
+  :product-url
+  "/us/products/227832/ishares-msci-total-international-index-fund"}
+ {:portfolio-id 271544,
+  :ticker "SYSB",
+  :name "iShares Systematic Bond ETF",
+  :inception-date "Feb 24, 2015",
+  :net-assets "1,410,643,341",
+  :net-assets-value 1.41064334133E9,
+  :product-url "/us/products/271544/ishares-systematic-bond-etf"}
+ {:portfolio-id 314365,
+  :ticker "USXF",
+  :name "iShares ESG Advanced MSCI USA ETF",
+  :inception-date "Jun 16, 2020",
+  :net-assets "1,399,643,865",
+  :net-assets-value 1.39964386498E9,
+  :product-url "/us/products/314365/ishares-esg-advanced-msci-usa-etf"}
+ {:portfolio-id 239745,
+  :ticker "EXI",
+  :name "iShares Global Industrials ETF",
+  :inception-date "Sep 12, 2006",
+  :net-assets "1,396,875,155",
+  :net-assets-value 1.39687515462E9,
+  :product-url "/us/products/239745/ishares-global-industrials-etf"}
+ {:portfolio-id 270319,
+  :ticker "COMT",
+  :name "iShares GSCI Commodity Dynamic Roll Strategy ETF",
+  :inception-date "Oct 15, 2014",
+  :net-assets "1,378,221,938",
+  :net-assets-value 1.37822193835E9,
+  :product-url
+  "/us/products/270319/ishares-gsci-commodity-dynamic-roll-strategy-etf"}
+ {:portfolio-id 239581,
+  :ticker "ILCV",
+  :name "iShares Morningstar Value ETF",
+  :inception-date "Jun 28, 2004",
+  :net-assets "1,369,812,003",
+  :net-assets-value 1.36981200312E9,
+  :product-url "/us/products/239581/ishares-morningstar-value-etf"}
+ {:portfolio-id 283737,
+  :ticker "IGRO",
+  :name "iShares International Dividend Growth ETF",
+  :inception-date "May 17, 2016",
+  :net-assets "1,316,659,040",
+  :net-assets-value 1.31665903991E9,
+  :product-url
+  "/us/products/283737/ishares-international-dividend-growth-etf"}
+ {:portfolio-id 239503,
+  :ticker "IYM",
+  :name "iShares U.S. Basic Materials ETF",
+  :inception-date "Jun 12, 2000",
+  :net-assets "1,307,863,682",
+  :net-assets-value 1.30786368171E9,
+  :product-url "/us/products/239503/ishares-u-s-basic-materials-etf"}
+ {:portfolio-id 288490,
+  :ticker "SUSB",
+  :name "iShares ESG Aware 1-5 Year USD Corporate Bond ETF",
+  :inception-date "Jul 11, 2017",
+  :net-assets "1,305,413,190",
+  :net-assets-value 1.30541319015E9,
+  :product-url
+  "/us/products/288490/ishares-esg-aware-1-5-year-usd-corporate-bond-etf"}
+ {:portfolio-id 239504,
+  :ticker "IAI",
+  :name "iShares U.S. Broker-Dealers & Securities Exchanges ETF",
+  :inception-date "May 01, 2006",
+  :net-assets "1,303,979,288",
+  :net-assets-value 1.30397928769E9,
+  :product-url
+  "/us/products/239504/ishares-u-s-broker-dealers-securities-exchanges-etf"}
+ {:portfolio-id 288488,
+  :ticker "SUSC",
+  :name "iShares ESG Aware USD Corporate Bond ETF",
+  :inception-date "Jul 11, 2017",
+  :net-assets "1,301,387,142",
+  :net-assets-value 1.30138714189E9,
+  :product-url
+  "/us/products/288488/ishares-esg-aware-usd-corporate-bond-etf"}
+ {:portfolio-id 239579,
+  :ticker "MLRG",
+  :name "iShares MSCI USA ETF",
+  :inception-date "Jun 28, 2004",
+  :net-assets "1,281,175,424",
+  :net-assets-value 1.28117542376E9,
+  :product-url "/us/products/239579/ishares-msci-usa-etf"}
+ {:portfolio-id 239584,
+  :ticker "IMCV",
+  :name "iShares Morningstar Mid-Cap Value ETF",
+  :inception-date "Jun 28, 2004",
+  :net-assets "1,279,591,760",
+  :net-assets-value 1.27959176014E9,
+  :product-url
+  "/us/products/239584/ishares-morningstar-mid-cap-value-etf"}
+ {:portfolio-id 239506,
+  :ticker "IYC",
+  :name "iShares U.S. Consumer Discretionary ETF",
+  :inception-date "Jun 12, 2000",
+  :net-assets "1,266,719,992",
+  :net-assets-value 1.26671999208E9,
+  :product-url
+  "/us/products/239506/ishares-u-s-consumer-discretionary-etf"}
+ {:portfolio-id 239607,
+  :ticker "EWA",
+  :name "iShares MSCI Australia ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "1,245,483,738",
+  :net-assets-value 1.24548373792E9,
+  :product-url "/us/products/239607/ishares-msci-australia-etf"}
+ {:portfolio-id 239657,
+  :ticker "EWH",
+  :name "iShares MSCI Hong Kong ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "1,244,171,607",
+  :net-assets-value 1.24417160692E9,
+  :product-url "/us/products/239657/ishares-msci-hong-kong-etf"}
+ {:portfolio-id 314830,
+  :ticker "IBTK",
+  :name "iShares® iBonds® Dec 2030 Term Treasury ETF",
+  :inception-date "Jul 14, 2020",
+  :net-assets "1,225,113,893",
+  :net-assets-value 1.22511389337E9,
+  :product-url
+  "/us/products/314830/ishares-ibonds-dec-2030-term-treasury-etf"}
+ {:portfolio-id 239716,
+  :ticker "IWC",
+  :name "iShares Micro-Cap ETF",
+  :inception-date "Aug 12, 2005",
+  :net-assets "1,218,122,449",
+  :net-assets-value 1.21812244875E9,
+  :product-url "/us/products/239716/ishares-micro-cap-etf"}
+ {:portfolio-id 307352,
+  :ticker "IHAK",
+  :name "iShares Cybersecurity and Tech ETF",
+  :inception-date "Jun 11, 2019",
+  :net-assets "1,205,545,052",
+  :net-assets-value 1.20554505211E9,
+  :product-url
+  "/us/products/307352/ishares-cybersecurity-and-tech-etf"}
+ {:portfolio-id 239664,
+  :ticker "EWI",
+  :name "iShares MSCI Italy ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "1,204,052,439",
+  :net-assets-value 1.20405243906E9,
+  :product-url "/us/products/239664/ishares-msci-italy-etf"}
+ {:portfolio-id 332289,
+  :ticker "IBDY",
+  :name "iShares® iBonds® Dec 2033 Term Corporate ETF",
+  :inception-date "Jun 21, 2023",
+  :net-assets "1,197,235,529",
+  :net-assets-value 1.19723552945E9,
+  :product-url
+  "/us/products/332289/ishares-ibonds-dec-2033-term-corporate-etf"}
+ {:portfolio-id 308574,
+  :ticker "SUSL",
+  :name "iShares ESG MSCI USA Leaders ETF",
+  :inception-date "May 07, 2019",
+  :net-assets "1,191,772,927",
+  :net-assets-value 1.1917729271E9,
+  :product-url "/us/products/308574/ishares-esg-msci-usa-leaders-etf"}
+ {:portfolio-id 239431,
+  :ticker "QLTA",
+  :name "iShares Aaa - A Rated Corporate Bond ETF",
+  :inception-date "Feb 14, 2012",
+  :net-assets "1,188,517,247",
+  :net-assets-value 1.1885172472E9,
+  :product-url
+  "/us/products/239431/ishares-aaa-a-rated-corporate-bond-etf"}
+ {:portfolio-id 239740,
+  :ticker "KXI",
+  :name "iShares Global Consumer Staples ETF",
+  :inception-date "Sep 12, 2006",
+  :net-assets "1,185,163,726",
+  :net-assets-value 1.18516372582E9,
+  :product-url
+  "/us/products/239740/ishares-global-consumer-staples-etf"}
+ {:portfolio-id 271054,
+  :ticker "CRBN",
+  :name "iShares Low Carbon Optimized MSCI ACWI ETF",
+  :inception-date "Dec 08, 2014",
+  :net-assets "1,165,462,135",
+  :net-assets-value 1.16546213548E9,
+  :product-url
+  "/us/products/271054/ishares-low-carbon-optimized-msci-acwi-etf"}
+ {:portfolio-id 318215,
+  :ticker "LCTU",
+  :name "iShares U.S. Carbon Transition Readiness Aware Active ETF",
+  :inception-date "Apr 06, 2021",
+  :net-assets "1,149,925,450",
+  :net-assets-value 1.14992545045E9,
+  :product-url
+  "/us/products/318215/ishares-u-s-carbon-transition-readiness-aware-active-etf"}
+ {:portfolio-id 239526,
+  :ticker "DVYE",
+  :name "iShares Emerging Markets Dividend ETF",
+  :inception-date "Feb 23, 2012",
+  :net-assets "1,134,015,779",
+  :net-assets-value 1.13401577853E9,
+  :product-url
+  "/us/products/239526/ishares-emerging-markets-dividend-etf"}
+ {:portfolio-id 239684,
+  :ticker "EWD",
+  :name "iShares MSCI Sweden ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "1,109,054,042",
+  :net-assets-value 1.10905404214E9,
+  :product-url "/us/products/239684/ishares-msci-sweden-etf"}
+ {:portfolio-id 276536,
+  :ticker "BSMKX",
+  :name "iShares Russell Small/Mid-Cap Index Fund",
+  :inception-date "Aug 13, 2015",
+  :net-assets "1,077,114,854",
+  :net-assets-value 1.07711485414E9,
+  :product-url
+  "/us/products/276536/ishares-russell-small-mid-cap-index-fund"}
+ {:portfolio-id 239678,
+  :ticker "EWS",
+  :name "iShares MSCI Singapore ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "1,069,251,623",
+  :net-assets-value 1.06925162272E9,
+  :product-url "/us/products/239678/ishares-msci-singapore-etf"}
+ {:portfolio-id 239757,
+  :ticker "GSG",
+  :name "iShares S&P GSCI Commodity-Indexed Trust",
+  :inception-date "Jul 10, 2006",
+  :net-assets "1,050,589,182",
+  :net-assets-value 1.0505891815E9,
+  :product-url
+  "/us/products/239757/ishares-s-p-gsci-commodity-indexed-trust"}
+ {:portfolio-id 314362,
+  :ticker "DMXF",
+  :name "iShares ESG Advanced MSCI EAFE ETF",
+  :inception-date "Jun 16, 2020",
+  :net-assets "1,035,694,669",
+  :net-assets-value 1.03569466889E9,
+  :product-url
+  "/us/products/314362/ishares-esg-advanced-msci-eafe-etf"}
+ {:portfolio-id 239830,
+  :ticker "IGOV",
+  :name "iShares International Treasury Bond ETF",
+  :inception-date "Jan 21, 2009",
+  :net-assets "1,032,393,560",
+  :net-assets-value 1.03239355988E9,
+  :product-url
+  "/us/products/239830/ishares-international-treasury-bond-etf"}
+ {:portfolio-id 239676,
+  :ticker "EPOL",
+  :name "iShares MSCI Poland ETF",
+  :inception-date "May 25, 2010",
+  :net-assets "1,013,569,641",
+  :net-assets-value 1.01356964129E9,
+  :product-url "/us/products/239676/ishares-msci-poland-etf"}
+ {:portfolio-id 239587,
+  :ticker "ISCG",
+  :name "iShares Morningstar Small-Cap Growth ETF",
+  :inception-date "Jun 28, 2004",
+  :net-assets "960,127,030",
+  :net-assets-value 9.6012703037E8,
+  :product-url
+  "/us/products/239587/ishares-morningstar-small-cap-growth-etf"}
+ {:portfolio-id 348532,
+  :ticker "ETHB",
+  :name "iShares Staked Ethereum Trust ETF",
+  :inception-date "Feb 18, 2026",
+  :net-assets "941,398,538",
+  :net-assets-value 9.4139853812E8,
+  :product-url "/us/products/348532/ishares-staked-ethereum-trust-etf"}
+ {:portfolio-id 317978,
+  :ticker "SHYM",
+  :name "iShares Short Duration High Yield Muni Active ETF",
+  :inception-date "Mar 16, 2021",
+  :net-assets "918,775,120",
+  :net-assets-value 9.1877511956E8,
+  :product-url
+  "/us/products/317978/ishares-short-duration-high-yield-muni-active-etf"}
+ {:portfolio-id 337465,
+  :ticker "IBDZ",
+  :name "iShares® iBonds® Dec 2034 Term Corporate ETF",
+  :inception-date "May 22, 2024",
+  :net-assets "909,090,034",
+  :net-assets-value 9.0909003417E8,
+  :product-url
+  "/us/products/337465/ishares-ibonds-dec-2034-term-corporate-etf"}
+ {:portfolio-id 239517,
+  :ticker "IEO",
+  :name "iShares U.S. Oil & Gas Exploration & Production ETF",
+  :inception-date "May 01, 2006",
+  :net-assets "895,657,853",
+  :net-assets-value 8.9565785265E8,
+  :product-url
+  "/us/products/239517/ishares-u-s-oil-gas-exploration-production-etf"}
+ {:portfolio-id 315917,
+  :ticker "XVV",
+  :name "iShares ESG Select Screened S&P 500 ETF",
+  :inception-date "Sep 22, 2020",
+  :net-assets "881,698,508",
+  :net-assets-value 8.8169850808E8,
+  :product-url
+  "/us/products/315917/ishares-esg-select-screened-s-p-500-etf"}
+ {:portfolio-id 334572,
+  :ticker "BRTR",
+  :name "iShares Total Return Active ETF",
+  :inception-date "Dec 12, 2023",
+  :net-assets "860,049,265",
+  :net-assets-value 8.6004926521E8,
+  :product-url "/us/products/334572/ishares-total-return-active-etf"}
+ {:portfolio-id 239733,
+  :ticker "AOK",
+  :name "iShares Core 30/70 Conservative Allocation ETF",
+  :inception-date "Nov 04, 2008",
+  :net-assets "852,195,031",
+  :net-assets-value 8.5219503085E8,
+  :product-url
+  "/us/products/239733/ishares-core-30-70-conservative-allocation-etf"}
+ {:portfolio-id 347090,
+  :ticker "SECU",
+  :name "iShares Securitized Income Active ETF",
+  :inception-date "Jul 29, 2005",
+  :net-assets "845,088,463",
+  :net-assets-value 8.4508846251E8,
+  :product-url
+  "/us/products/347090/ishares-securitized-income-active-etf"}
+ {:portfolio-id 239829,
+  :ticker "ISHG",
+  :name "iShares 1-3 Year International Treasury Bond ETF",
+  :inception-date "Jan 21, 2009",
+  :net-assets "832,481,525",
+  :net-assets-value 8.3248152527E8,
+  :product-url
+  "/us/products/239829/ishares-1-3-year-international-treasury-bond-etf"}
+ {:portfolio-id 239663,
+  :ticker "EIS",
+  :name "iShares MSCI Israel ETF",
+  :inception-date "Mar 26, 2008",
+  :net-assets "826,087,798",
+  :net-assets-value 8.2608779814E8,
+  :product-url "/us/products/239663/ishares-msci-israel-etf"}
+ {:portfolio-id 239545,
+  :ticker "REZ",
+  :name "iShares Residential and Multisector Real Estate ETF",
+  :inception-date "May 01, 2007",
+  :net-assets "818,361,028",
+  :net-assets-value 8.1836102842E8,
+  :product-url
+  "/us/products/239545/ishares-residential-and-multisector-real-estate-etf"}
+ {:portfolio-id 239768,
+  :ticker "IGE",
+  :name "iShares North American Natural Resources ETF",
+  :inception-date "Oct 22, 2001",
+  :net-assets "818,230,388",
+  :net-assets-value 8.1823038806E8,
+  :product-url
+  "/us/products/239768/ishares-north-american-natural-resources-etf"}
+ {:portfolio-id 239618,
+  :ticker "ECH",
+  :name "iShares MSCI Chile ETF",
+  :inception-date "Nov 12, 2007",
+  :net-assets "804,278,974",
+  :net-assets-value 8.0427897412E8,
+  :product-url "/us/products/239618/ishares-msci-chile-etf"}
+ {:portfolio-id 341467,
+  :ticker "PMMF",
+  :name "iShares Prime Money Market ETF",
+  :inception-date "Feb 04, 2025",
+  :net-assets "796,457,227",
+  :net-assets-value 7.9645722675E8,
+  :product-url "/us/products/341467/ishares-prime-money-market-etf"}
+ {:portfolio-id 227833,
+  :ticker "BDOIX",
+  :name "iShares MSCI Total International Index Fund",
+  :inception-date "Jun 30, 2011",
+  :net-assets "793,486,878",
+  :net-assets-value 7.9348687788E8,
+  :product-url
+  "/us/products/227833/ishares-msci-total-international-index-fund"}
+ {:portfolio-id 317976,
+  :ticker "INMU",
+  :name "iShares Intermediate Muni Income Active ETF",
+  :inception-date "Mar 16, 2021",
+  :net-assets "786,895,966",
+  :net-assets-value 7.8689596588E8,
+  :product-url
+  "/us/products/317976/ishares-intermediate-muni-income-active-etf"}
+ {:portfolio-id 239629,
+  :ticker "EEMA",
+  :name "iShares MSCI Emerging Markets Asia ETF",
+  :inception-date "Feb 08, 2012",
+  :net-assets "775,046,464",
+  :net-assets-value 7.7504646369E8,
+  :product-url
+  "/us/products/239629/ishares-msci-emerging-markets-asia-etf"}
+ {:portfolio-id 239528,
+  :ticker "LEMB",
+  :name "iShares J.P. Morgan EM Local Currency Bond ETF",
+  :inception-date "Oct 18, 2011",
+  :net-assets "772,855,605",
+  :net-assets-value 7.7285560467E8,
+  :product-url
+  "/us/products/239528/ishares-j-p-morgan-em-local-currency-bond-etf"}
+ {:portfolio-id 319421,
+  :ticker "IBTL",
+  :name "iShares® iBonds® Dec 2031 Term Treasury ETF",
+  :inception-date "Jul 13, 2021",
+  :net-assets "767,902,559",
+  :net-assets-value 7.6790255905E8,
+  :product-url
+  "/us/products/319421/ishares-ibonds-dec-2031-term-treasury-etf"}
+ {:portfolio-id 347352,
+  :ticker "MBBA",
+  :name "iShares Mortgage-Backed Securities Active ETF",
+  :inception-date "May 18, 1998",
+  :net-assets "765,995,000",
+  :net-assets-value 7.6599500001E8,
+  :product-url
+  "/us/products/347352/ishares-mortgage-backed-securities-active-etf"}
+ {:portfolio-id 307263,
+  :ticker "EWJV",
+  :name "iShares MSCI Japan Value ETF",
+  :inception-date "Mar 05, 2019",
+  :net-assets "764,285,036",
+  :net-assets-value 7.642850364E8,
+  :product-url "/us/products/307263/ishares-msci-japan-value-etf"}
+ {:portfolio-id 351653,
+  :ticker "IQQ",
+  :name "iShares Nasdaq 100 ETF",
+  :inception-date "Jul 08, 2026",
+  :net-assets "744,559,773",
+  :net-assets-value 7.4455977299E8,
+  :product-url "/us/products/351653/ishares-nasdaq-100-etf"}
+ {:portfolio-id 239656,
+  :ticker "SLVP",
+  :name "iShares MSCI Global Silver and Metals Miners ETF",
+  :inception-date "Jan 31, 2012",
+  :net-assets "742,997,663",
+  :net-assets-value 7.4299766292E8,
+  :product-url
+  "/us/products/239656/ishares-msci-global-silver-and-metals-miners-etf"}
+ {:portfolio-id 239523,
+  :ticker "IYZ",
+  :name "iShares U.S. Telecommunications ETF",
+  :inception-date "May 22, 2000",
+  :net-assets "739,366,890",
+  :net-assets-value 7.3936688985E8,
+  :product-url
+  "/us/products/239523/ishares-u-s-telecommunications-etf"}
+ {:portfolio-id 292741,
+  :ticker "CMDY",
+  :name "iShares Bloomberg Roll Select Commodity Strategy ETF",
+  :inception-date "Apr 03, 2018",
+  :net-assets "728,215,009",
+  :net-assets-value 7.2821500936E8,
+  :product-url
+  "/us/products/292741/ishares-bloomberg-roll-select-commodity-strategy-etf"}
+ {:portfolio-id 339779,
+  :ticker "TOPT",
+  :name "iShares Top 20 U.S. Stocks ETF",
+  :inception-date "Oct 23, 2024",
+  :net-assets "712,912,281",
+  :net-assets-value 7.1291228126E8,
+  :product-url "/us/products/339779/ishares-top-20-u-s-stocks-etf"}
+ {:portfolio-id 272823,
+  :ticker "ISCF",
+  :name "iShares International Small-Cap Equity Factor ETF",
+  :inception-date "Apr 28, 2015",
+  :net-assets "712,482,915",
+  :net-assets-value 7.1248291529E8,
+  :product-url
+  "/us/products/272823/ishares-international-small-cap-equity-factor-etf"}
+ {:portfolio-id 314499,
+  :ticker "EUSB",
+  :name "iShares ESG Advanced Universal USD Bond ETF",
+  :inception-date "Jun 23, 2020",
+  :net-assets "708,843,835",
+  :net-assets-value 7.0884383491E8,
+  :product-url
+  "/us/products/314499/ishares-esg-advanced-universal-usd-bond-etf"}
+ {:portfolio-id 239742,
+  :ticker "IXG",
+  :name "iShares Global Financials ETF",
+  :inception-date "Nov 12, 2001",
+  :net-assets "705,868,614",
+  :net-assets-value 7.058686139E8,
+  :product-url "/us/products/239742/ishares-global-financials-etf"}
+ {:portfolio-id 239588,
+  :ticker "ISCV",
+  :name "iShares Morningstar Small-Cap Value ETF",
+  :inception-date "Jun 28, 2004",
+  :net-assets "697,156,752",
+  :net-assets-value 6.9715675245E8,
+  :product-url
+  "/us/products/239588/ishares-morningstar-small-cap-value-etf"}
+ {:portfolio-id 308051,
+  :ticker "IBMQ",
+  :name "iShares® iBonds® Dec 2028 Term Muni Bond ETF",
+  :inception-date "Apr 16, 2019",
+  :net-assets "689,291,505",
+  :net-assets-value 6.892915048E8,
+  :product-url
+  "/us/products/308051/ishares-ibonds-dec-2028-term-muni-bond-etf"}
+ {:portfolio-id 332497,
+  :ticker "CALI",
+  :name "iShares Short-Term California Muni Active ETF",
+  :inception-date "Jul 11, 2023",
+  :net-assets "686,833,684",
+  :net-assets-value 6.8683368447E8,
+  :product-url
+  "/us/products/332497/ishares-short-term-california-muni-active-etf"}
+ {:portfolio-id 308049,
+  :ticker "IBMP",
+  :name "iShares® iBonds® Dec 2027 Term Muni Bond ETF",
+  :inception-date "Apr 09, 2019",
+  :net-assets "683,186,479",
+  :net-assets-value 6.8318647891E8,
+  :product-url
+  "/us/products/308049/ishares-ibonds-dec-2027-term-muni-bond-etf"}
+ {:portfolio-id 239660,
+  :ticker "SMIN",
+  :name "iShares MSCI India Small-Cap ETF",
+  :inception-date "Feb 08, 2012",
+  :net-assets "681,427,863",
+  :net-assets-value 6.8142786293E8,
+  :product-url "/us/products/239660/ishares-msci-india-small-cap-etf"}
+ {:portfolio-id 342357,
+  :ticker "WSML",
+  :name "iShares MSCI World Small-Cap ETF",
+  :inception-date "Apr 01, 2025",
+  :net-assets "662,415,486",
+  :net-assets-value 6.6241548606E8,
+  :product-url "/us/products/342357/ishares-msci-world-small-cap-etf"}
+ {:portfolio-id 282303,
+  :ticker "BIIPX",
+  :name "iShares Short-Term TIPS Bond Index Fund",
+  :inception-date "Feb 16, 2016",
+  :net-assets "656,923,642",
+  :net-assets-value 6.5692364198E8,
+  :product-url
+  "/us/products/282303/ishares-short-term-tips-bond-index-fund"}
+ {:portfolio-id 239457,
+  :ticker "AGZ",
+  :name "iShares Agency Bond ETF",
+  :inception-date "Nov 05, 2008",
+  :net-assets "648,088,139",
+  :net-assets-value 6.480881394E8,
+  :product-url "/us/products/239457/ishares-agency-bond-etf"}
+ {:portfolio-id 239521,
+  :ticker "IAT",
+  :name "iShares U.S. Regional Banks ETF",
+  :inception-date "May 01, 2006",
+  :net-assets "646,160,526",
+  :net-assets-value 6.4616052628E8,
+  :product-url "/us/products/239521/ishares-u-s-regional-banks-etf"}
+ {:portfolio-id 264544,
+  :ticker "HYGH",
+  :name "iShares Interest Rate Hedged High Yield Bond ETF",
+  :inception-date "May 27, 2014",
+  :net-assets "639,323,053",
+  :net-assets-value 6.3932305331E8,
+  :product-url
+  "/us/products/264544/ishares-interest-rate-hedged-high-yield-bond-etf"}
+ {:portfolio-id 282304,
+  :ticker "BKIPX",
+  :name "iShares Short-Term TIPS Bond Index Fund",
+  :inception-date "Feb 16, 2016",
+  :net-assets "630,092,989",
+  :net-assets-value 6.3009298895E8,
+  :product-url
+  "/us/products/282304/ishares-short-term-tips-bond-index-fund"}
+ {:portfolio-id 259624,
+  :ticker "HEWJ",
+  :name "iShares Currency Hedged MSCI Japan ETF",
+  :inception-date "Jan 31, 2014",
+  :net-assets "625,968,622",
+  :net-assets-value 6.2596862158E8,
+  :product-url
+  "/us/products/259624/ishares-currency-hedged-msci-japan-etf"}
+ {:portfolio-id 328944,
+  :ticker "IBTM",
+  :name "iShares® iBonds® Dec 2032 Term Treasury ETF",
+  :inception-date "Jul 06, 2022",
+  :net-assets "624,505,406",
+  :net-assets-value 6.2450540567E8,
+  :product-url
+  "/us/products/328944/ishares-ibonds-dec-2032-term-treasury-etf"}
+ {:portfolio-id 292425,
+  :ticker "IETC",
+  :name "iShares U.S. Tech Independence Focused ETF",
+  :inception-date "Mar 21, 2018",
+  :net-assets "621,583,068",
+  :net-assets-value 6.2158306829E8,
+  :product-url
+  "/us/products/292425/ishares-u-s-tech-independence-focused-etf"}
+ {:portfolio-id 316512,
+  :ticker "IBHF",
+  :name "iShares® iBonds® 2026 Term High Yield and Income ETF",
+  :inception-date "Nov 10, 2020",
+  :net-assets "610,651,308",
+  :net-assets-value 6.106513082E8,
+  :product-url
+  "/us/products/316512/ishares-ibonds-2026-term-high-yield-and-income-etf"}
+ {:portfolio-id 239424,
+  :ticker "ILTB",
+  :name "iShares Core 10+ Year USD Bond ETF",
+  :inception-date "Dec 08, 2009",
+  :net-assets "600,733,981",
+  :net-assets-value 6.0073398076E8,
+  :product-url
+  "/us/products/239424/ishares-core-10%20-year-usd-bond-etf"}
+ {:portfolio-id 239671,
+  :ticker "EWN",
+  :name "iShares MSCI Netherlands ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "597,055,718",
+  :net-assets-value 5.9705571807E8,
+  :product-url "/us/products/239671/ishares-msci-netherlands-etf"}
+ {:portfolio-id 264542,
+  :ticker "LQDH",
+  :name "iShares Interest Rate Hedged Corporate Bond ETF",
+  :inception-date "May 27, 2014",
+  :net-assets "596,593,447",
+  :net-assets-value 5.9659344742E8,
+  :product-url
+  "/us/products/264542/ishares-interest-rate-hedged-corporate-bond-etf"}
+ {:portfolio-id 239527,
+  :ticker "EMHY",
+  :name "iShares J.P. Morgan EM High Yield Bond ETF",
+  :inception-date "Apr 03, 2012",
+  :net-assets "557,693,041",
+  :net-assets-value 5.5769304126E8,
+  :product-url
+  "/us/products/239527/ishares-j-p-morgan-em-high-yield-bond-etf"}
+ {:portfolio-id 271542,
+  :ticker "KSA",
+  :name "iShares MSCI Saudi Arabia ETF",
+  :inception-date "Sep 16, 2015",
+  :net-assets "555,666,619",
+  :net-assets-value 5.5566661857E8,
+  :product-url "/us/products/271542/ishares-msci-saudi-arabia-etf"}
+ {:portfolio-id 326462,
+  :ticker "IBHI",
+  :name "iShares® iBonds® 2029 Term High Yield and Income ETF",
+  :inception-date "Mar 08, 2022",
+  :net-assets "539,883,162",
+  :net-assets-value 5.3988316249E8,
+  :product-url
+  "/us/products/326462/ishares-ibonds-2029-term-high-yield-and-income-etf"}
+ {:portfolio-id 319422,
+  :ticker "IBHG",
+  :name "iShares® iBonds® 2027 Term High Yield and Income ETF",
+  :inception-date "Jul 07, 2021",
+  :net-assets "530,021,826",
+  :net-assets-value 5.3002182604E8,
+  :product-url
+  "/us/products/319422/ishares-ibonds-2027-term-high-yield-and-income-etf"}
+ {:portfolio-id 331834,
+  :ticker "IBMR",
+  :name "iShares® iBonds® Dec 2029 Term Muni Bond ETF",
+  :inception-date "May 09, 2023",
+  :net-assets "526,029,118",
+  :net-assets-value 5.260291184E8,
+  :product-url
+  "/us/products/331834/ishares-ibonds-dec-2029-term-muni-bond-etf"}
+ {:portfolio-id 336430,
+  :ticker "INRO",
+  :name "iShares U.S. Industry Rotation Active ETF",
+  :inception-date "Mar 26, 2024",
+  :net-assets "524,999,230",
+  :net-assets-value 5.2499922997E8,
+  :product-url
+  "/us/products/336430/ishares-u-s-industry-rotation-active-etf"}
+ {:portfolio-id 332291,
+  :ticker "IBTO",
+  :name "iShares® iBonds® Dec 2033 Term Treasury ETF",
+  :inception-date "Jun 27, 2023",
+  :net-assets "516,529,471",
+  :net-assets-value 5.1652947051E8,
+  :product-url
+  "/us/products/332291/ishares-ibonds-dec-2033-term-treasury-etf"}
+ {:portfolio-id 239758,
+  :ticker "INDY",
+  :name "iShares India 50 ETF",
+  :inception-date "Nov 18, 2009",
+  :net-assets "515,340,365",
+  :net-assets-value 5.1534036545E8,
+  :product-url "/us/products/239758/ishares-india-50-etf"}
+ {:portfolio-id 308047,
+  :ticker "IBMO",
+  :name "iShares® iBonds® Dec 2026 Term Muni Bond ETF",
+  :inception-date "Apr 02, 2019",
+  :net-assets "501,974,443",
+  :net-assets-value 5.019744425E8,
+  :product-url
+  "/us/products/308047/ishares-ibonds-dec-2026-term-muni-bond-etf"}
+ {:portfolio-id 239606,
+  :ticker "EPU",
+  :name "iShares MSCI Peru and Global Exposure ETF",
+  :inception-date "Jun 19, 2009",
+  :net-assets "500,607,075",
+  :net-assets-value 5.0060707529E8,
+  :product-url
+  "/us/products/239606/ishares-msci-peru-and-global-exposure-etf"}
+ {:portfolio-id 305296,
+  :ticker "BGRN",
+  :name "iShares USD Green Bond ETF",
+  :inception-date "Nov 13, 2018",
+  :net-assets "488,487,838",
+  :net-assets-value 4.8848783823E8,
+  :product-url "/us/products/305296/ishares-usd-green-bond-etf"}
+ {:portfolio-id 227756,
+  :ticker "MASKX",
+  :name "iShares Russell 2000 Small-Cap Index Fund",
+  :inception-date "Apr 09, 1997",
+  :net-assets "485,321,960",
+  :net-assets-value 4.8532196032E8,
+  :product-url
+  "/us/products/227756/ishares-russell-2000-small-cap-index-fund"}
+ {:portfolio-id 312046,
+  :ticker "TECB",
+  :name "iShares U.S. Tech Breakthrough Multisector ETF",
+  :inception-date "Jan 08, 2020",
+  :net-assets "481,162,584",
+  :net-assets-value 4.8116258405E8,
+  :product-url
+  "/us/products/312046/ishares-u-s-tech-breakthrough-multisector-etf"}
+ {:portfolio-id 326459,
+  :ticker "IBHH",
+  :name "iShares® iBonds® 2028 Term High Yield and Income ETF",
+  :inception-date "Mar 08, 2022",
+  :net-assets "480,488,298",
+  :net-assets-value 4.8048829779E8,
+  :product-url
+  "/us/products/326459/ishares-ibonds-2028-term-high-yield-and-income-etf"}
+ {:portfolio-id 342119,
+  :ticker "IBCA",
+  :name "iShares® iBonds® Dec 2035 Term Corporate ETF",
+  :inception-date "Mar 25, 2025",
+  :net-assets "480,436,764",
+  :net-assets-value 4.80436764E8,
+  :product-url
+  "/us/products/342119/ishares-ibonds-dec-2035-term-corporate-etf"}
+ {:portfolio-id 227724,
+  :ticker "MDIIX",
+  :name "iShares MSCI EAFE International Index Fund",
+  :inception-date "Apr 09, 1997",
+  :net-assets "475,893,305",
+  :net-assets-value 4.7589330474E8,
+  :product-url
+  "/us/products/227724/ishares-msci-eafe-international-index-fund"}
+ {:portfolio-id 239515,
+  :ticker "IAK",
+  :name "iShares U.S. Insurance ETF",
+  :inception-date "May 01, 2006",
+  :net-assets "475,404,501",
+  :net-assets-value 4.7540450115E8,
+  :product-url "/us/products/239515/ishares-u-s-insurance-etf"}
+ {:portfolio-id 239770,
+  :ticker "IDGT",
+  :name "iShares U.S. Digital Infrastructure and Real Estate ETF",
+  :inception-date "Jul 10, 2001",
+  :net-assets "464,813,933",
+  :net-assets-value 4.6481393257E8,
+  :product-url
+  "/us/products/239770/ishares-u-s-digital-infrastructure-and-real-estate-etf"}
+ {:portfolio-id 239543,
+  :ticker "REM",
+  :name "iShares Mortgage Real Estate ETF",
+  :inception-date "May 01, 2007",
+  :net-assets "454,169,828",
+  :net-assets-value 4.5416982825E8,
+  :product-url "/us/products/239543/ishares-mortgage-real-estate-etf"}
+ {:portfolio-id 239680,
+  :ticker "EZA",
+  :name "iShares MSCI South Africa ETF",
+  :inception-date "Feb 03, 2003",
+  :net-assets "451,570,669",
+  :net-assets-value 4.5157066906E8,
+  :product-url "/us/products/239680/ishares-msci-south-africa-etf"}
+ {:portfolio-id 239653,
+  :ticker "POWR",
+  :name "iShares U.S. Power Infrastructure ETF",
+  :inception-date "Jan 31, 2012",
+  :net-assets "447,718,887",
+  :net-assets-value 4.4771888708E8,
+  :product-url
+  "/us/products/239653/ishares-u-s-power-infrastructure-etf"}
+ {:portfolio-id 239459,
+  :ticker "CMBS",
+  :name "iShares CMBS ETF",
+  :inception-date "Feb 14, 2012",
+  :net-assets "443,624,656",
+  :net-assets-value 4.4362465551E8,
+  :product-url "/us/products/239459/ishares-cmbs-etf"}
+ {:portfolio-id 239751,
+  :ticker "IXP",
+  :name "iShares Global Comm Services ETF",
+  :inception-date "Nov 12, 2001",
+  :net-assets "442,835,885",
+  :net-assets-value 4.4283588502E8,
+  :product-url "/us/products/239751/ishares-global-comm-services-etf"}
+ {:portfolio-id 251465,
+  :ticker "SIZE",
+  :name "iShares MSCI USA Size Factor ETF",
+  :inception-date "Apr 16, 2013",
+  :net-assets "434,341,761",
+  :net-assets-value 4.3434176064E8,
+  :product-url "/us/products/251465/ishares-msci-usa-size-factor-etf"}
+ {:portfolio-id 239461,
+  :ticker "GNMA",
+  :name "iShares GNMA Bond ETF",
+  :inception-date "Feb 14, 2012",
+  :net-assets "430,530,755",
+  :net-assets-value 4.3053075503E8,
+  :product-url "/us/products/239461/ishares-gnma-bond-etf"}
+ {:portfolio-id 264127,
+  :ticker "BYLD",
+  :name "iShares Yield Optimized Bond ETF",
+  :inception-date "Apr 22, 2014",
+  :net-assets "422,820,060",
+  :net-assets-value 4.2282006028E8,
+  :product-url "/us/products/264127/ishares-yield-optimized-bond-etf"}
+ {:portfolio-id 315914,
+  :ticker "XJH",
+  :name "iShares ESG Select Screened S&P Mid-Cap ETF",
+  :inception-date "Sep 22, 2020",
+  :net-assets "421,465,906",
+  :net-assets-value 4.214659055E8,
+  :product-url
+  "/us/products/315914/ishares-esg-select-screened-s-p-mid-cap-etf"}
+ {:portfolio-id 268708,
+  :ticker "HEZU",
+  :name "iShares Currency Hedged MSCI Eurozone ETF",
+  :inception-date "Jul 09, 2014",
+  :net-assets "419,265,371",
+  :net-assets-value 4.1926537096E8,
+  :product-url
+  "/us/products/268708/ishares-currency-hedged-msci-eurozone-etf"}
+ {:portfolio-id 332280,
+  :ticker "ICOP",
+  :name "iShares Copper and Metals Mining ETF",
+  :inception-date "Jun 21, 2023",
+  :net-assets "413,604,081",
+  :net-assets-value 4.1360408104E8,
+  :product-url
+  "/us/products/332280/ishares-copper-and-metals-mining-etf"}
+ {:portfolio-id 239748,
+  :ticker "MXI",
+  :name "iShares Global Materials ETF",
+  :inception-date "Sep 12, 2006",
+  :net-assets "399,117,567",
+  :net-assets-value 3.9911756715E8,
+  :product-url "/us/products/239748/ishares-global-materials-etf"}
+ {:portfolio-id 239525,
+  :ticker "CEMB",
+  :name "iShares J.P. Morgan EM Corporate Bond ETF",
+  :inception-date "Apr 17, 2012",
+  :net-assets "397,130,741",
+  :net-assets-value 3.9713074094E8,
+  :product-url
+  "/us/products/239525/ishares-j-p-morgan-em-corporate-bond-etf"}
+ {:portfolio-id 337460,
+  :ticker "IBMS",
+  :name "iShares® iBonds® Dec 2030 Term Muni Bond ETF",
+  :inception-date "May 22, 2024",
+  :net-assets "393,415,518",
+  :net-assets-value 3.934155183E8,
+  :product-url
+  "/us/products/337460/ishares-ibonds-dec-2030-term-muni-bond-etf"}
+ {:portfolio-id 330809,
+  :ticker "EVUS",
+  :name "iShares ESG Aware MSCI USA Value ETF",
+  :inception-date "Jan 31, 2023",
+  :net-assets "391,750,572",
+  :net-assets-value 3.9175057237E8,
+  :product-url
+  "/us/products/330809/ishares-esg-aware-msci-usa-value-etf"}
+ {:portfolio-id 239688,
+  :ticker "THD",
+  :name "iShares MSCI Thailand ETF",
+  :inception-date "Mar 26, 2008",
+  :net-assets "387,458,197",
+  :net-assets-value 3.8745819666E8,
+  :product-url "/us/products/239688/ishares-msci-thailand-etf"}
+ {:portfolio-id 239647,
+  :ticker "EFNL",
+  :name "iShares MSCI Finland ETF",
+  :inception-date "Jan 25, 2012",
+  :net-assets "383,932,337",
+  :net-assets-value 3.8393233726E8,
+  :product-url "/us/products/239647/ishares-msci-finland-etf"}
+ {:portfolio-id 338251,
+  :ticker "CSHP",
+  :name "iShares Dynamic Short-Term Active ETF",
+  :inception-date "Jul 17, 2024",
+  :net-assets "382,612,961",
+  :net-assets-value 3.8261296063E8,
+  :product-url
+  "/us/products/338251/ishares-dynamic-short-term-active-etf"}
+ {:portfolio-id 239518,
+  :ticker "IEZ",
+  :name "iShares U.S. Oil Equipment & Services ETF",
+  :inception-date "May 01, 2006",
+  :net-assets "381,837,960",
+  :net-assets-value 3.8183795976E8,
+  :product-url
+  "/us/products/239518/ishares-u-s-oil-equipment-services-etf"}
+ {:portfolio-id 239661,
+  :ticker "EIDO",
+  :name "iShares MSCI Indonesia ETF",
+  :inception-date "May 05, 2010",
+  :net-assets "381,062,605",
+  :net-assets-value 3.8106260473E8,
+  :product-url "/us/products/239661/ishares-msci-indonesia-etf"}
+ {:portfolio-id 337745,
+  :ticker "IBTP",
+  :name "iShares® iBonds® Dec 2034 Term Treasury ETF",
+  :inception-date "Jun 11, 2024",
+  :net-assets "375,078,679",
+  :net-assets-value 3.7507867875E8,
+  :product-url
+  "/us/products/337745/ishares-ibonds-dec-2034-term-treasury-etf"}
+ {:portfolio-id 315911,
+  :ticker "GOVZ",
+  :name "iShares 25+ Year Treasury STRIPS Bond ETF",
+  :inception-date "Sep 22, 2020",
+  :net-assets "370,431,785",
+  :net-assets-value 3.7043178458E8,
+  :product-url
+  "/us/products/315911/ishares-25%20-year-treasury-strips-bond-etf"}
+ {:portfolio-id 305259,
+  :ticker "HYBB",
+  :name "iShares BB Rated Corporate Bond ETF",
+  :inception-date "Oct 06, 2020",
+  :net-assets "368,073,943",
+  :net-assets-value 3.6807394284E8,
+  :product-url
+  "/us/products/305259/ishares-bb-rated-corporate-bond-etf"}
+ {:portfolio-id 338863,
+  :ticker "BIDD",
+  :name "iShares International Dividend Active ETF",
+  :inception-date "Sep 26, 1997",
+  :net-assets "366,656,850",
+  :net-assets-value 3.6665685014E8,
+  :product-url
+  "/us/products/338863/ishares-international-dividend-active-etf"}
+ {:portfolio-id 331795,
+  :ticker "BLCV",
+  :name "iShares Large Cap Value Active ETF",
+  :inception-date "May 19, 2023",
+  :net-assets "354,709,655",
+  :net-assets-value 3.5470965486E8,
+  :product-url
+  "/us/products/331795/ishares-large-cap-value-active-etf"}
+ {:portfolio-id 329120,
+  :ticker "LQDW",
+  :name "iShares LQD Premium Income+ ETF",
+  :inception-date "Aug 18, 2022",
+  :net-assets "353,716,699",
+  :net-assets-value 3.5371669918E8,
+  :product-url
+  "/us/products/329120/ishares-investment-grade-corporate-bond-buywrite-strategy-etf"}
+ {:portfolio-id 239642,
+  :ticker "EEMS",
+  :name "iShares MSCI Emerging Markets Small-Cap ETF",
+  :inception-date "Aug 16, 2011",
+  :net-assets "351,916,069",
+  :net-assets-value 3.5191606882E8,
+  :product-url
+  "/us/products/239642/ishares-msci-emerging-markets-small-cap-etf"}
+ {:portfolio-id 298426,
+  :ticker "BDBPX",
+  :name "iShares Russell 2000 Small-Cap Index Fund",
+  :inception-date "Aug 06, 2018",
+  :net-assets "350,060,499",
+  :net-assets-value 3.5006049878E8,
+  :product-url
+  "/us/products/298426/ishares-russell-2000-small-cap-index-fund"}
+ {:portfolio-id 273768,
+  :ticker "HAWX",
+  :name "iShares Currency Hedged MSCI ACWI ex U.S. ETF",
+  :inception-date "Jun 29, 2015",
+  :net-assets "349,981,821",
+  :net-assets-value 3.4998182054E8,
+  :product-url
+  "/us/products/273768/ishares-currency-hedged-msci-acwi-ex-u-s-etf"}
+ {:portfolio-id 239753,
+  :ticker "JXI",
+  :name "iShares Global Utilities ETF",
+  :inception-date "Sep 12, 2006",
+  :net-assets "349,666,308",
+  :net-assets-value 3.4966630826E8,
+  :product-url "/us/products/239753/ishares-global-utilities-etf"}
+ {:portfolio-id 239648,
+  :ticker "EWQ",
+  :name "iShares MSCI France ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "349,610,115",
+  :net-assets-value 3.4961011489E8,
+  :product-url "/us/products/239648/ishares-msci-france-etf"}
+ {:portfolio-id 336267,
+  :ticker "IVVW",
+  :name "iShares IVV Premium Income+ ETF",
+  :inception-date "Mar 14, 2024",
+  :net-assets "346,746,747",
+  :net-assets-value 3.4674674744E8,
+  :product-url "/us/products/336267/ishares-s-p-500-buywrite-etf"}
+ {:portfolio-id 239673,
+  :ticker "ENOR",
+  :name "iShares MSCI Norway ETF",
+  :inception-date "Jan 23, 2012",
+  :net-assets "336,937,526",
+  :net-assets-value 3.3693752639E8,
+  :product-url "/us/products/239673/ishares-msci-norway-etf"}
+ {:portfolio-id 340396,
+  :ticker "AQLT",
+  :name "iShares MSCI Global Quality Factor ETF",
+  :inception-date "Dec 11, 2024",
+  :net-assets "336,750,960",
+  :net-assets-value 3.3675096023E8,
+  :product-url
+  "/us/products/340396/ishares-msci-global-quality-factor-etf"}
+ {:portfolio-id 276537,
+  :ticker "BASMX",
+  :name "iShares Total U.S. Stock Market Index Fund",
+  :inception-date "Aug 13, 2015",
+  :net-assets "336,582,106",
+  :net-assets-value 3.3658210558E8,
+  :product-url
+  "/us/products/276537/ishares-total-u-s-stock-market-index-fund"}
+ {:portfolio-id 339775,
+  :ticker "QTOP",
+  :name "iShares Nasdaq Top 30 Stocks ETF",
+  :inception-date "Oct 23, 2024",
+  :net-assets "327,879,574",
+  :net-assets-value 3.2787957407E8,
+  :product-url "/us/products/339775/ishares-nasdaq-top-30-stocks-etf"}
+ {:portfolio-id 308878,
+  :ticker "IDNA",
+  :name "iShares Genomics Immunology and Healthcare ETF",
+  :inception-date "Jun 11, 2019",
+  :net-assets "326,819,332",
+  :net-assets-value 3.2681933248E8,
+  :product-url
+  "/us/products/308878/ishares-genomics-immunology-and-healthcare-etf"}
+ {:portfolio-id 335054,
+  :ticker "PABD",
+  :name
+  "iShares Paris-Aligned Climate Optimized MSCI World ex USA ETF",
+  :inception-date "Jan 17, 2024",
+  :net-assets "325,429,202",
+  :net-assets-value 3.2542920213E8,
+  :product-url
+  "/us/products/335054/ishares-paris-aligned-climate-optimized-msci-world-ex-usa-etf"}
+ {:portfolio-id 317548,
+  :ticker "ISVL",
+  :name "iShares International Developed Small Cap Value Factor ETF",
+  :inception-date "Mar 23, 2021",
+  :net-assets "325,129,755",
+  :net-assets-value 3.2512975506E8,
+  :product-url
+  "/us/products/317548/ishares-international-developed-small-cap-value-factor-etf"}
+ {:portfolio-id 239613,
+  :ticker "EWZS",
+  :name "iShares MSCI Brazil Small-Cap ETF",
+  :inception-date "Sep 28, 2010",
+  :net-assets "319,777,822",
+  :net-assets-value 3.1977782168E8,
+  :product-url "/us/products/239613/ishares-msci-brazil-small-cap-etf"}
+ {:portfolio-id 318216,
+  :ticker "LCTD",
+  :name
+  "iShares World ex U.S. Carbon Transition Readiness Aware Active ETF",
+  :inception-date "Apr 06, 2021",
+  :net-assets "318,827,609",
+  :net-assets-value 3.188276091E8,
+  :product-url
+  "/us/products/318216/ishares-world-ex-u-s-carbon-transition-readiness-aware-active-etf"}
+ {:portfolio-id 275311,
+  :ticker "BRMIX",
+  :name "iShares Russell Mid-Cap Index Fund",
+  :inception-date "May 13, 2015",
+  :net-assets "317,908,634",
+  :net-assets-value 3.1790863381E8,
+  :product-url
+  "/us/products/275311/ishares-russell-mid-cap-index-fund"}
+ {:portfolio-id 264275,
+  :ticker "UAE",
+  :name "iShares MSCI UAE ETF",
+  :inception-date "Apr 29, 2014",
+  :net-assets "300,523,949",
+  :net-assets-value 3.0052394929E8,
+  :product-url "/us/products/264275/ishares-msci-uae-etf"}
+ {:portfolio-id 342105,
+  :ticker "IBTQ",
+  :name "iShares® iBonds® Dec 2035 Term Treasury ETF",
+  :inception-date "Mar 25, 2025",
+  :net-assets "300,349,448",
+  :net-assets-value 3.0034944828E8,
+  :product-url
+  "/us/products/342105/ishares-ibonds-dec-2035-term-treasury-etf"}
+ {:portfolio-id 333132,
+  :ticker "IBIE",
+  :name "iShares® iBonds® Oct 2028 Term TIPS ETF",
+  :inception-date "Sep 13, 2023",
+  :net-assets "289,734,605",
+  :net-assets-value 2.8973460497E8,
+  :product-url
+  "/us/products/333132/ishares-ibonds-oct-2028-term-tips-etf"}
+ {:portfolio-id 285539,
+  :ticker "IMTB",
+  :name "iShares Core 5-10 Year USD Bond ETF",
+  :inception-date "Nov 01, 2016",
+  :net-assets "282,592,389",
+  :net-assets-value 2.8259238862E8,
+  :product-url
+  "/us/products/285539/ishares-core-5-10-year-usd-bond-etf"}
+ {:portfolio-id 284609,
+  :ticker "SMMV",
+  :name "iShares MSCI USA Small-Cap Min Vol Factor ETF",
+  :inception-date "Sep 07, 2016",
+  :net-assets "280,807,156",
+  :net-assets-value 2.8080715554E8,
+  :product-url
+  "/us/products/284609/ishares-msci-usa-small-cap-min-vol-factor-etf"}
+ {:portfolio-id 239586,
+  :ticker "MSML",
+  :name "iShares MSCI USA Small-Cap ETF",
+  :inception-date "Jun 28, 2004",
+  :net-assets "276,849,352",
+  :net-assets-value 2.7684935185E8,
+  :product-url "/us/products/239586/ishares-msci-usa-small-cap-etf"}
+ {:portfolio-id 268704,
+  :ticker "HEEM",
+  :name "iShares Currency Hedged MSCI Emerging Markets ETF",
+  :inception-date "Sep 23, 2014",
+  :net-assets "273,816,565",
+  :net-assets-value 2.7381656487E8,
+  :product-url
+  "/us/products/268704/ishares-currency-hedged-msci-emerging-markets-etf"}
+ {:portfolio-id 275397,
+  :ticker "IGBH",
+  :name "iShares Interest Rate Hedged Long-Term Corporate Bond ETF",
+  :inception-date "Jul 22, 2015",
+  :net-assets "272,171,442",
+  :net-assets-value 2.721714422E8,
+  :product-url
+  "/us/products/275397/ishares-interest-rate-hedged-long-term-corporate-bond-etf"}
+ {:portfolio-id 340161,
+  :ticker "LDRT",
+  :name "iShares® iBonds® 1-5 Year Treasury Ladder ETF",
+  :inception-date "Nov 07, 2024",
+  :net-assets "264,567,330",
+  :net-assets-value 2.645673297E8,
+  :product-url
+  "/us/products/340161/ishares-ibonds-1-5-year-treasury-ladder-etf"}
+ {:portfolio-id 227744,
+  :ticker "MDSKX",
+  :name "iShares Russell 2000 Small-Cap Index Fund",
+  :inception-date "Apr 09, 1997",
+  :net-assets "261,089,988",
+  :net-assets-value 2.6108998825E8,
+  :product-url
+  "/us/products/227744/ishares-russell-2000-small-cap-index-fund"}
+ {:portfolio-id 276533,
+  :ticker "BKRDX",
+  :name "iShares Developed Real Estate Index Fund",
+  :inception-date "Aug 13, 2015",
+  :net-assets "258,946,636",
+  :net-assets-value 2.5894663585E8,
+  :product-url
+  "/us/products/276533/ishares-developed-real-estate-index-fund"}
+ {:portfolio-id 273771,
+  :ticker "HSCZ",
+  :name "iShares Currency Hedged MSCI EAFE Small-Cap ETF",
+  :inception-date "Jun 29, 2015",
+  :net-assets "258,740,613",
+  :net-assets-value 2.5874061302E8,
+  :product-url
+  "/us/products/273771/ishares-currency-hedged-msci-eafe-small-cap-etf"}
+ {:portfolio-id 353593,
+  :ticker "AIBF",
+  :name "iShares Future AI Beneficiaries ETF",
+  :inception-date "Sep 22, 2026",
+  :net-assets "254,330,529",
+  :net-assets-value 2.5433052894E8,
+  :product-url
+  "/us/products/353593/ishares-future-ai-beneficiaries-etf"}
+ {:portfolio-id 276538,
+  :ticker "BITSX",
+  :name "iShares Total U.S. Stock Market Index Fund",
+  :inception-date "Aug 13, 2015",
+  :net-assets "251,636,485",
+  :net-assets-value 2.516364849E8,
+  :product-url
+  "/us/products/276538/ishares-total-u-s-stock-market-index-fund"}
+ {:portfolio-id 239610,
+  :ticker "EWK",
+  :name "iShares MSCI Belgium ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "249,240,159",
+  :net-assets-value 2.4924015864E8,
+  :product-url "/us/products/239610/ishares-msci-belgium-etf"}
+ {:portfolio-id 239752,
+  :ticker "WOOD",
+  :name "iShares Global Timber & Forestry ETF",
+  :inception-date "Jun 24, 2008",
+  :net-assets "248,503,473",
+  :net-assets-value 2.4850347268E8,
+  :product-url
+  "/us/products/239752/ishares-global-timber-forestry-etf"}
+ {:portfolio-id 239550,
+  :ticker "EUHY",
+  :name "iShares Euro High Yield Corporate Bond USD Hedged ETF",
+  :inception-date "Apr 03, 2012",
+  :net-assets "246,625,931",
+  :net-assets-value 2.4662593118E8,
+  :product-url
+  "/us/products/239550/ishares-euro-high-yield-corporate-bond-usd-hedged-etf"}
+ {:portfolio-id 239739,
+  :ticker "RXI",
+  :name "iShares Global Consumer Discretionary ETF",
+  :inception-date "Sep 12, 2006",
+  :net-assets "243,873,476",
+  :net-assets-value 2.4387347559E8,
+  :product-url
+  "/us/products/239739/ishares-global-consumer-discretionary-etf"}
+ {:portfolio-id 239668,
+  :ticker "TOK",
+  :name "iShares MSCI Kokusai ETF",
+  :inception-date "Dec 10, 2007",
+  :net-assets "235,025,278",
+  :net-assets-value 2.3502527755E8,
+  :product-url "/us/products/239668/ishares-msci-kokusai-etf"}
+ {:portfolio-id 239666,
+  :ticker "SCJ",
+  :name "iShares MSCI Japan Small-Cap ETF",
+  :inception-date "Dec 20, 2007",
+  :net-assets "231,442,407",
+  :net-assets-value 2.314424068E8,
+  :product-url "/us/products/239666/ishares-msci-japan-small-cap-etf"}
+ {:portfolio-id 239669,
+  :ticker "EWM",
+  :name "iShares MSCI Malaysia ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "229,383,316",
+  :net-assets-value 2.2938331645E8,
+  :product-url "/us/products/239669/ishares-msci-malaysia-etf"}
+ {:portfolio-id 350212,
+  :ticker "IBCB",
+  :name "iShares® iBonds® Dec 2036 Term Corporate ETF",
+  :inception-date "Mar 25, 2026",
+  :net-assets "225,440,095",
+  :net-assets-value 2.2544009509E8,
+  :product-url
+  "/us/products/350212/ishares-ibonds-dec-2036-term-corporate-etf"}
+ {:portfolio-id 315920,
+  :ticker "XJR",
+  :name "iShares ESG Select Screened S&P Small-Cap ETF",
+  :inception-date "Sep 22, 2020",
+  :net-assets "214,670,146",
+  :net-assets-value 2.146701459E8,
+  :product-url
+  "/us/products/315920/ishares-esg-select-screened-s-p-small-cap-etf"}
+ {:portfolio-id 342151,
+  :ticker "IBMT",
+  :name "iShares® iBonds® Dec 2031 Term Muni Bond ETF",
+  :inception-date "Mar 25, 2025",
+  :net-assets "210,529,442",
+  :net-assets-value 2.1052944226E8,
+  :product-url
+  "/us/products/342151/ishares-ibonds-dec-2031-term-muni-bond-etf"}
+ {:portfolio-id 227860,
+  :ticker "BRGNX",
+  :name "iShares Russell 1000 Large-Cap Index Fund",
+  :inception-date "Mar 31, 2011",
+  :net-assets "208,456,918",
+  :net-assets-value 2.0845691824E8,
+  :product-url
+  "/us/products/227860/ishares-russell-1000-large-cap-index-fund"}
+ {:portfolio-id 272821,
+  :ticker "GLOF",
+  :name "iShares Global Equity Factor ETF",
+  :inception-date "Apr 28, 2015",
+  :net-assets "200,902,391",
+  :net-assets-value 2.0090239062E8,
+  :product-url "/us/products/272821/ishares-global-equity-factor-etf"}
+ {:portfolio-id 332287,
+  :ticker "IBHJ",
+  :name "iShares® iBonds® 2030 Term High Yield and Income ETF",
+  :inception-date "Jun 21, 2023",
+  :net-assets "200,509,951",
+  :net-assets-value 2.0050995148E8,
+  :product-url
+  "/us/products/332287/ishares-ibonds-2030-term-high-yield-and-income-etf"}
+ {:portfolio-id 332306,
+  :ticker "IVVM",
+  :name "iShares Large Cap Moderate Quarterly Laddered ETF",
+  :inception-date "Jun 28, 2023",
+  :net-assets "196,388,647",
+  :net-assets-value 1.9638864653E8,
+  :product-url
+  "/us/products/332306/ishares-large-cap-moderate-quarterly-laddered-etf"}
+ {:portfolio-id 341466,
+  :ticker "GMMF",
+  :name "iShares Government Money Market ETF",
+  :inception-date "Feb 04, 2025",
+  :net-assets "191,583,030",
+  :net-assets-value 1.9158303004E8,
+  :product-url
+  "/us/products/341466/ishares-government-money-market-etf"}
+ {:portfolio-id 239621,
+  :ticker "EDEN",
+  :name "iShares MSCI Denmark ETF",
+  :inception-date "Jan 25, 2012",
+  :net-assets "188,057,494",
+  :net-assets-value 1.880574941E8,
+  :product-url "/us/products/239621/ishares-msci-denmark-etf"}
+ {:portfolio-id 283857,
+  :ticker "HYXF",
+  :name "iShares ESG Advanced High Yield Corporate Bond ETF",
+  :inception-date "Jun 14, 2016",
+  :net-assets "186,076,283",
+  :net-assets-value 1.8607628251E8,
+  :product-url
+  "/us/products/283857/ishares-esg-advanced-high-yield-corporate-bond-etf"}
+ {:portfolio-id 239551,
+  :ticker "GHYG",
+  :name "iShares US & Intl High Yield Corp Bond ETF",
+  :inception-date "Apr 03, 2012",
+  :net-assets "185,687,707",
+  :net-assets-value 1.8568770708E8,
+  :product-url
+  "/us/products/239551/ishares-us-intl-high-yield-corp-bond-etf"}
+ {:portfolio-id 280761,
+  :ticker "BRMAX",
+  :name "iShares Russell Mid-Cap Index Fund",
+  :inception-date "Nov 30, 2015",
+  :net-assets "183,096,958",
+  :net-assets-value 1.8309695791E8,
+  :product-url
+  "/us/products/280761/ishares-russell-mid-cap-index-fund"}
+ {:portfolio-id 298428,
+  :ticker "BTMPX",
+  :name "iShares MSCI EAFE International Index Fund",
+  :inception-date "Aug 06, 2018",
+  :net-assets "182,437,177",
+  :net-assets-value 1.8243717702E8,
+  :product-url
+  "/us/products/298428/ishares-msci-eafe-international-index-fund"}
+ {:portfolio-id 276535,
+  :ticker "BSMIX",
+  :name "iShares Russell Small/Mid-Cap Index Fund",
+  :inception-date "Aug 13, 2015",
+  :net-assets "173,762,554",
+  :net-assets-value 1.7376255427E8,
+  :product-url
+  "/us/products/276535/ishares-russell-small-mid-cap-index-fund"}
+ {:portfolio-id 239609,
+  :ticker "EWO",
+  :name "iShares MSCI Austria ETF",
+  :inception-date "Mar 12, 1996",
+  :net-assets "171,087,450",
+  :net-assets-value 1.7108744956E8,
+  :product-url "/us/products/239609/ishares-msci-austria-etf"}
+ {:portfolio-id 239652,
+  :ticker "VEGI",
+  :name "iShares MSCI Agriculture Producers ETF",
+  :inception-date "Jan 31, 2012",
+  :net-assets "169,551,472",
+  :net-assets-value 1.6955147244E8,
+  :product-url
+  "/us/products/239652/ishares-msci-agriculture-producers-etf"}
+ {:portfolio-id 239537,
+  :ticker "IEUS",
+  :name "iShares MSCI Europe Small-Cap ETF",
+  :inception-date "Nov 12, 2007",
+  :net-assets "167,482,312",
+  :net-assets-value 1.6748231167E8,
+  :product-url "/us/products/239537/ishares-msci-europe-small-cap-etf"}
+ {:portfolio-id 239831,
+  :ticker "JPXN",
+  :name "iShares JPX-Nikkei 400 ETF",
+  :inception-date "Oct 23, 2001",
+  :net-assets "165,074,121",
+  :net-assets-value 1.6507412114E8,
+  :product-url "/us/products/239831/ishares-jpx-nikkei-400-etf"}
+ {:portfolio-id 316394,
+  :ticker "SVAL",
+  :name "iShares US Small Cap Value Factor ETF",
+  :inception-date "Oct 27, 2020",
+  :net-assets "164,621,014",
+  :net-assets-value 1.6462101402E8,
+  :product-url
+  "/us/products/316394/ishares-us-small-cap-value-factor-etf"}
+ {:portfolio-id 337965,
+  :ticker "MAXJ",
+  :name "iShares Large Cap Max Buffer Jun ETF",
+  :inception-date "Jun 28, 2024",
+  :net-assets "162,885,554",
+  :net-assets-value 1.6288555392E8,
+  :product-url
+  "/us/products/337965/ishares-large-cap-max-buffer-jun-etf"}
+ {:portfolio-id 227790,
+  :ticker "BMOAX",
+  :name "iShares U.S. Aggregate Bond Index Fund",
+  :inception-date "Mar 31, 2011",
+  :net-assets "162,159,782",
+  :net-assets-value 1.6215978158E8,
+  :product-url
+  "/us/products/227790/ishares-u-s-aggregate-bond-index-fund"}
+ {:portfolio-id 283378,
+  :ticker "SDG",
+  :name "iShares MSCI Global Sustainable Development Goals ETF",
+  :inception-date "Apr 20, 2016",
+  :net-assets "160,831,991",
+  :net-assets-value 1.6083199094E8,
+  :product-url
+  "/us/products/283378/ishares-msci-global-sustainable-development-goals-etf"}
+ {:portfolio-id 273318,
+  :ticker "CNYA",
+  :name "iShares MSCI China A ETF",
+  :inception-date "Jun 13, 2016",
+  :net-assets "158,828,083",
+  :net-assets-value 1.5882808306E8,
+  :product-url "/us/products/273318/ishares-msci-china-a-etf"}
+ {:portfolio-id 316020,
+  :ticker "EMXF",
+  :name "iShares ESG Advanced MSCI EM ETF",
+  :inception-date "Oct 06, 2020",
+  :net-assets "157,468,961",
+  :net-assets-value 1.574689607E8,
+  :product-url "/us/products/316020/ishares-esg-advanced-msci-em-etf"}
+ {:portfolio-id 333135,
+  :ticker "IBID",
+  :name "iShares® iBonds® Oct 2027 Term TIPS ETF",
+  :inception-date "Sep 13, 2023",
+  :net-assets "155,235,743",
+  :net-assets-value 1.5523574295E8,
+  :product-url
+  "/us/products/333135/ishares-ibonds-oct-2027-term-tips-etf"}
+ {:portfolio-id 227788,
+  :ticker "BMOIX",
+  :name "iShares U.S. Aggregate Bond Index Fund",
+  :inception-date "Mar 31, 2011",
+  :net-assets "154,610,273",
+  :net-assets-value 1.5461027342E8,
+  :product-url
+  "/us/products/227788/ishares-u-s-aggregate-bond-index-fund"}
+ {:portfolio-id 333128,
+  :ticker "IBIG",
+  :name "iShares® iBonds® Oct 2030 Term TIPS ETF",
+  :inception-date "Sep 19, 2023",
+  :net-assets "153,716,360",
+  :net-assets-value 1.5371635984E8,
+  :product-url
+  "/us/products/333128/ishares-ibonds-oct-2030-term-tips-etf"}
+ {:portfolio-id 333121,
+  :ticker "IBIH",
+  :name "iShares® iBonds® Oct 2031 Term TIPS ETF",
+  :inception-date "Sep 19, 2023",
+  :net-assets "153,342,996",
+  :net-assets-value 1.5334299587E8,
+  :product-url
+  "/us/products/333121/ishares-ibonds-oct-2031-term-tips-etf"}
+ {:portfolio-id 333141,
+  :ticker "IBIF",
+  :name "iShares® iBonds® Oct 2029 Term TIPS ETF",
+  :inception-date "Sep 19, 2023",
+  :net-assets "149,653,090",
+  :net-assets-value 1.4965309032E8,
+  :product-url
+  "/us/products/333141/ishares-ibonds-oct-2029-term-tips-etf"}
+ {:portfolio-id 239689,
+  :ticker "TUR",
+  :name "iShares MSCI Turkey ETF",
+  :inception-date "Mar 26, 2008",
+  :net-assets "148,409,649",
+  :net-assets-value 1.4840964928E8,
+  :product-url "/us/products/239689/ishares-msci-turkey-etf"}
+ {:portfolio-id 306171,
+  :ticker "BIDPX",
+  :name "iShares Municipal Bond Index Fund",
+  :inception-date "Nov 16, 2018",
+  :net-assets "144,764,347",
+  :net-assets-value 1.447643466E8,
+  :product-url "/us/products/306171/ishares-municipal-bond-index-fund"}
+ {:portfolio-id 332307,
+  :ticker "IVVB",
+  :name "iShares Large Cap Deep Quarterly Laddered ETF",
+  :inception-date "Jun 28, 2023",
+  :net-assets "141,395,039",
+  :net-assets-value 1.4139503908E8,
+  :product-url
+  "/us/products/332307/ishares-large-cap-deep-quarterly-laddered-etf"}
+ {:portfolio-id 239675,
+  :ticker "EPHE",
+  :name "iShares MSCI Philippines ETF",
+  :inception-date "Sep 28, 2010",
+  :net-assets "140,568,321",
+  :net-assets-value 1.4056832144E8,
+  :product-url "/us/products/239675/ishares-msci-philippines-etf"}
+ {:portfolio-id 227861,
+  :ticker "BRGAX",
+  :name "iShares Russell 1000 Large-Cap Index Fund",
+  :inception-date "Mar 31, 2011",
+  :net-assets "139,859,409",
+  :net-assets-value 1.3985940863E8,
+  :product-url
+  "/us/products/227861/ishares-russell-1000-large-cap-index-fund"}
+ {:portfolio-id 239462,
+  :ticker "AGGM",
+  :name "iShares 1-10 Year U.S. Aggregate Bond ETF",
+  :inception-date "Jan 05, 2007",
+  :net-assets "131,120,361",
+  :net-assets-value 1.3112036073E8,
+  :product-url
+  "/us/products/239462/ishares-1-10-year-u-s-aggregate-bond-etf"}
+ {:portfolio-id 337564,
+  :ticker "BRHY",
+  :name "iShares High Yield Active ETF",
+  :inception-date "Jun 17, 2024",
+  :net-assets "130,359,119",
+  :net-assets-value 1.3035911875E8,
+  :product-url "/us/products/337564/ishares-high-yield-active-etf"}
+ {:portfolio-id 239585,
+  :ticker "IYLD",
+  :name "iShares Morningstar Multi-Asset Income ETF",
+  :inception-date "Apr 03, 2012",
+  :net-assets "128,836,594",
+  :net-assets-value 1.2883659352E8,
+  :product-url
+  "/us/products/239585/ishares-morningstar-multi-asset-income-etf"}
+ {:portfolio-id 340392,
+  :ticker "DMAX",
+  :name "iShares Large Cap Max Buffer Dec ETF",
+  :inception-date "Dec 31, 2024",
+  :net-assets "128,210,916",
+  :net-assets-value 1.2821091571E8,
+  :product-url
+  "/us/products/340392/ishares-large-cap-max-buffer-dec-etf"}
+ {:portfolio-id 339266,
+  :ticker "SMAX",
+  :name "iShares Large Cap Max Buffer Sep ETF",
+  :inception-date "Sep 30, 2024",
+  :net-assets "125,245,744",
+  :net-assets-value 1.252457441E8,
+  :product-url
+  "/us/products/339266/ishares-large-cap-max-buffer-sep-etf"}
+ {:portfolio-id 276534,
+  :ticker "BSMAX",
+  :name "iShares Russell Small/Mid-Cap Index Fund",
+  :inception-date "Aug 13, 2015",
+  :net-assets "125,244,456",
+  :net-assets-value 1.2524445646E8,
+  :product-url
+  "/us/products/276534/ishares-russell-small-mid-cap-index-fund"}
+ {:portfolio-id 333558,
+  :ticker "ITDC",
+  :name "iShares® LifePath®  Target Date 2035 ETF",
+  :inception-date "Oct 17, 2023",
+  :net-assets "125,063,554",
+  :net-assets-value 1.2506355411E8,
+  :product-url
+  "/us/products/333558/ishares-lifepath-target-date-2035-etf"}
+ {:portfolio-id 333561,
+  :ticker "ITDD",
+  :name "iShares® LifePath® Target Date 2040 ETF",
+  :inception-date "Oct 17, 2023",
+  :net-assets "124,353,116",
+  :net-assets-value 1.2435311597E8,
+  :product-url
+  "/us/products/333561/ishares-lifepath-target-date-2040-etf"}
+ {:portfolio-id 345073,
+  :ticker "BILT",
+  :name "iShares Infrastructure Active ETF",
+  :inception-date "Jul 29, 2025",
+  :net-assets "120,500,917",
+  :net-assets-value 1.2050091704E8,
+  :product-url "/us/products/345073/ishares-infrastructure-active-etf"}
+ {:portfolio-id 350028,
+  :ticker "IBTR",
+  :name "iShares® iBonds® Dec 2036 Term Treasury ETF",
+  :inception-date "Mar 25, 2026",
+  :net-assets "120,279,356",
+  :net-assets-value 1.2027935649E8,
+  :product-url
+  "/us/products/350028/ishares-ibonds-dec-2036-term-treasury-etf"}
+ {:portfolio-id 307332,
+  :ticker "IDRV",
+  :name "iShares Self-Driving EV and Tech ETF",
+  :inception-date "Apr 16, 2019",
+  :net-assets "119,882,589",
+  :net-assets-value 1.1988258865E8,
+  :product-url
+  "/us/products/307332/ishares-self-driving-ev-and-tech-etf"}
+ {:portfolio-id 341497,
+  :ticker "BCLO",
+  :name "iShares BBB-B CLO Active ETF",
+  :inception-date "Jan 29, 2025",
+  :net-assets "113,103,482",
+  :net-assets-value 1.1310348156E8,
+  :product-url "/us/products/341497/ishares-bbb-b-clo-active-etf"}
+ {:portfolio-id 345128,
+  :ticker "IDYN",
+  :name "iShares International Equity Factor Rotation Active ETF",
+  :inception-date "Aug 05, 2025",
+  :net-assets "112,275,452",
+  :net-assets-value 1.1227545229E8,
+  :product-url
+  "/us/products/345128/ishares-international-equity-factor-rotation-active-etf"}
+ {:portfolio-id 329119,
+  :ticker "HYGW",
+  :name "iShares HYG Premium Income+ ETF",
+  :inception-date "Aug 18, 2022",
+  :net-assets "109,802,304",
+  :net-assets-value 1.0980230378E8,
+  :product-url
+  "/us/products/329119/ishares-high-yield-corporate-bond-buywrite-strategy-etf"}
+ {:portfolio-id 333564,
+  :ticker "ITDE",
+  :name "iShares® LifePath® Target Date 2045 ETF",
+  :inception-date "Oct 17, 2023",
+  :net-assets "107,030,019",
+  :net-assets-value 1.0703001897E8,
+  :product-url
+  "/us/products/333564/ishares-lifepath-target-date-2045-etf"}
+ {:portfolio-id 337468,
+  :ticker "IBHK",
+  :name "iShares® iBonds® 2031 Term High Yield and Income ETF",
+  :inception-date "May 22, 2024",
+  :net-assets "104,622,883",
+  :net-assets-value 1.0462288285E8,
+  :product-url
+  "/us/products/337468/ishares-ibonds-2031-term-high-yield-and-income-etf"}
+ {:portfolio-id 340159,
+  :ticker "LDRC",
+  :name "iShares® iBonds® 1-5 Year Corporate Ladder ETF",
+  :inception-date "Nov 07, 2024",
+  :net-assets "103,157,492",
+  :net-assets-value 1.0315749198E8,
+  :product-url
+  "/us/products/340159/ishares-ibonds-1-5-year-corporate-ladder-etf"}
+ {:portfolio-id 333566,
+  :ticker "ITDF",
+  :name "iShares® LifePath® Target Date 2050 ETF",
+  :inception-date "Oct 17, 2023",
+  :net-assets "100,143,324",
+  :net-assets-value 1.0014332415E8,
+  :product-url
+  "/us/products/333566/ishares-lifepath-target-date-2050-etf"}
+ {:portfolio-id 333079,
+  :ticker "IBII",
+  :name "iShares® iBonds® Oct 2032 Term TIPS ETF",
+  :inception-date "Sep 19, 2023",
+  :net-assets "98,626,311",
+  :net-assets-value 9.862631057E7,
+  :product-url
+  "/us/products/333079/ishares-ibonds-oct-2032-term-tips-etf"}
+ {:portfolio-id 337462,
+  :ticker "IBIK",
+  :name "iShares® iBonds® Oct 2034 Term TIPS ETF",
+  :inception-date "May 22, 2024",
+  :net-assets "97,276,451",
+  :net-assets-value 9.727645094E7,
+  :product-url
+  "/us/products/337462/ishares-ibonds-oct-2034-term-tips-etf"}
+ {:portfolio-id 350678,
+  :ticker "BITA",
+  :name "iShares Bitcoin Premium Income ETF",
+  :inception-date "Jun 09, 2026",
+  :net-assets "96,591,352",
+  :net-assets-value 9.65913523E7,
+  :product-url
+  "/us/products/350678/ishares-bitcoin-premium-income-etf"}
+ {:portfolio-id 333555,
+  :ticker "ITDB",
+  :name "iShares® LifePath®  Target Date 2030 ETF",
+  :inception-date "Oct 17, 2023",
+  :net-assets "82,785,897",
+  :net-assets-value 8.278589662E7,
+  :product-url
+  "/us/products/333555/ishares-lifepath-target-date-2030-etf"}
+ {:portfolio-id 239540,
+  :ticker "IFGL",
+  :name "iShares International Developed Real Estate ETF",
+  :inception-date "Nov 12, 2007",
+  :net-assets "80,280,742",
+  :net-assets-value 8.028074222E7,
+  :product-url
+  "/us/products/239540/ishares-international-developed-real-estate-etf"}
+ {:portfolio-id 239662,
+  :ticker "EIRL",
+  :name "iShares MSCI Ireland ETF",
+  :inception-date "May 05, 2010",
+  :net-assets "77,302,863",
+  :net-assets-value 7.730286313E7,
+  :product-url "/us/products/239662/ishares-msci-ireland-etf"}
+ {:portfolio-id 337747,
+  :ticker "IBGA",
+  :name "iShares® iBonds® Dec 2044 Term Treasury ETF",
+  :inception-date "Jun 11, 2024",
+  :net-assets "75,580,639",
+  :net-assets-value 7.558063923E7,
+  :product-url
+  "/us/products/337747/ishares-ibonds-dec-2044-term-treasury-etf"}
+ {:portfolio-id 341942,
+  :ticker "MMAX",
+  :name "iShares Large Cap Max Buffer Mar ETF",
+  :inception-date "Mar 31, 2025",
+  :net-assets "73,881,067",
+  :net-assets-value 7.388106747E7,
+  :product-url
+  "/us/products/341942/ishares-large-cap-max-buffer-mar-etf"}
+ {:portfolio-id 227831,
+  :ticker "BDOAX",
+  :name "iShares MSCI Total International Index Fund",
+  :inception-date "Jun 30, 2011",
+  :net-assets "72,309,869",
+  :net-assets-value 7.230986944E7,
+  :product-url
+  "/us/products/227831/ishares-msci-total-international-index-fund"}
+ {:portfolio-id 333076,
+  :ticker "IBIJ",
+  :name "iShares® iBonds® Oct 2033 Term TIPS ETF",
+  :inception-date "Sep 19, 2023",
+  :net-assets "72,221,149",
+  :net-assets-value 7.222114908E7,
+  :product-url
+  "/us/products/333076/ishares-ibonds-oct-2033-term-tips-etf"}
+ {:portfolio-id 333570,
+  :ticker "ITDG",
+  :name "iShares® LifePath® Target Date 2055 ETF",
+  :inception-date "Oct 17, 2023",
+  :net-assets "67,639,917",
+  :net-assets-value 6.763991668E7,
+  :product-url
+  "/us/products/333570/ishares-lifepath-target-date-2055-etf"}
+ {:portfolio-id 239443,
+  :ticker "DVYA",
+  :name "iShares Asia/Pacific Dividend ETF",
+  :inception-date "Feb 23, 2012",
+  :net-assets "67,267,439",
+  :net-assets-value 6.726743911E7,
+  :product-url "/us/products/239443/ishares-asia-pacific-dividend-etf"}
+ {:portfolio-id 294319,
+  :ticker "LQDI",
+  :name "iShares Inflation Hedged Corporate Bond ETF",
+  :inception-date "May 08, 2018",
+  :net-assets "66,842,067",
+  :net-assets-value 6.684206715E7,
+  :product-url
+  "/us/products/294319/ishares-inflation-hedged-corporate-bond-etf"}
+ {:portfolio-id 345785,
+  :ticker "TEND",
+  :name "iShares Large Cap 10% Target Buffer Dec ETF",
+  :inception-date "Oct 07, 2025",
+  :net-assets "66,729,139",
+  :net-assets-value 6.672913856E7,
+  :product-url
+  "/us/products/345785/ishares-large-cap-10-target-buffer-dec-etf"}
+ {:portfolio-id 239672,
+  :ticker "ENZL",
+  :name "iShares MSCI New Zealand ETF",
+  :inception-date "Sep 01, 2010",
+  :net-assets "64,449,691",
+  :net-assets-value 6.444969079E7,
+  :product-url "/us/products/239672/ishares-msci-new-zealand-etf"}
+ {:portfolio-id 239614,
+  :ticker "BKF",
+  :name "iShares MSCI BIC ETF",
+  :inception-date "Nov 12, 2007",
+  :net-assets "64,154,952",
+  :net-assets-value 6.415495172E7,
+  :product-url "/us/products/239614/ishares-msci-bic-etf"}
+ {:portfolio-id 312763,
+  :ticker "KWT",
+  :name "iShares MSCI Kuwait ETF",
+  :inception-date "Sep 01, 2020",
+  :net-assets "63,098,009",
+  :net-assets-value 6.309800933E7,
+  :product-url "/us/products/312763/ishares-msci-kuwait-etf"}
+ {:portfolio-id 326614,
+  :ticker "IBLC",
+  :name "iShares Blockchain and Tech ETF",
+  :inception-date "Apr 25, 2022",
+  :net-assets "61,437,620",
+  :net-assets-value 6.143761986E7,
+  :product-url "/us/products/326614/ishares-blockchain-and-tech-etf"}
+ {:portfolio-id 264273,
+  :ticker "QAT",
+  :name "iShares MSCI Qatar ETF",
+  :inception-date "Apr 29, 2014",
+  :net-assets "60,126,528",
+  :net-assets-value 6.012652822E7,
+  :product-url "/us/products/264273/ishares-msci-qatar-etf"}
+ {:portfolio-id 333579,
+  :ticker "IRTR",
+  :name "iShares® LifePath® Retirement ETF",
+  :inception-date "Oct 17, 2023",
+  :net-assets "59,886,029",
+  :net-assets-value 5.988602926E7,
+  :product-url "/us/products/333579/ishares-lifepath-retirement-etf"}
+ {:portfolio-id 342148,
+  :ticker "IBIL",
+  :name "iShares® iBonds® Oct 2035 Term TIPS ETF",
+  :inception-date "Mar 25, 2025",
+  :net-assets "58,529,740",
+  :net-assets-value 5.852973981E7,
+  :product-url
+  "/us/products/342148/ishares-ibonds-oct-2035-term-tips-etf"}
+ {:portfolio-id 318688,
+  :ticker "LQDB",
+  :name "iShares BBB Rated Corporate Bond ETF",
+  :inception-date "May 18, 2021",
+  :net-assets "58,149,992",
+  :net-assets-value 5.81499921E7,
+  :product-url
+  "/us/products/318688/ishares-bbb-rated-corporate-bond-etf"}
+ {:portfolio-id 345804,
+  :ticker "STEN",
+  :name "iShares Large Cap 10% Target Buffer Sep ETF",
+  :inception-date "Sep 30, 2025",
+  :net-assets "57,460,552",
+  :net-assets-value 5.746055187E7,
+  :product-url
+  "/us/products/345804/ishares-large-cap-10-target-buffer-sep-etf"}
+ {:portfolio-id 350030,
+  :ticker "IBGC",
+  :name "iShares® iBonds® Dec 2046 Term Treasury ETF",
+  :inception-date "Mar 25, 2026",
+  :net-assets "57,129,738",
+  :net-assets-value 5.712973759E7,
+  :product-url
+  "/us/products/350030/ishares-ibonds-dec-2046-term-treasury-etf"}
+ {:portfolio-id 239620,
+  :ticker "ECNS",
+  :name "iShares MSCI China Small-Cap ETF",
+  :inception-date "Sep 28, 2010",
+  :net-assets "56,138,969",
+  :net-assets-value 5.613896915E7,
+  :product-url "/us/products/239620/ishares-msci-china-small-cap-etf"}
+ {:portfolio-id 336263,
+  :ticker "IWMW",
+  :name "iShares IWM Premium Income+ ETF",
+  :inception-date "Mar 14, 2024",
+  :net-assets "55,422,546",
+  :net-assets-value 5.542254637E7,
+  :product-url "/us/products/336263/ishares-russell-2000-buywrite-etf"}
+ {:portfolio-id 337989,
+  :ticker "MADE",
+  :name "iShares U.S. Manufacturing ETF",
+  :inception-date "Jul 17, 2024",
+  :net-assets "54,887,059",
+  :net-assets-value 5.488705943E7,
+  :product-url "/us/products/337989/ishares-u-s-manufacturing-etf"}
+ {:portfolio-id 336296,
+  :ticker "IBAT",
+  :name "iShares Energy Storage & Materials ETF",
+  :inception-date "Mar 19, 2024",
+  :net-assets "54,422,815",
+  :net-assets-value 5.442281455E7,
+  :product-url
+  "/us/products/336296/ishares-energy-storage-materials-etf"}
+ {:portfolio-id 350034,
+  :ticker "IBIM",
+  :name "iShares® iBonds® Oct 2036 Term TIPS ETF",
+  :inception-date "Mar 25, 2026",
+  :net-assets "52,192,934",
+  :net-assets-value 5.219293415E7,
+  :product-url
+  "/us/products/350034/ishares-ibonds-oct-2036-term-tips-etf"}
+ {:portfolio-id 329872,
+  :ticker "BRLN",
+  :name "iShares Floating Rate Loan Active ETF",
+  :inception-date "Oct 04, 2022",
+  :net-assets "50,529,584",
+  :net-assets-value 5.052958423E7,
+  :product-url
+  "/us/products/329872/ishares-floating-rate-loan-active-etf"}
+ {:portfolio-id 333572,
+  :ticker "ITDH",
+  :name "iShares® LifePath® Target Date 2060 ETF",
+  :inception-date "Oct 17, 2023",
+  :net-assets "47,620,578",
+  :net-assets-value 4.762057821E7,
+  :product-url
+  "/us/products/333572/ishares-lifepath-target-date-2060-etf"}
+ {:portfolio-id 345807,
+  :ticker "TENJ",
+  :name "iShares Large Cap 10% Target Buffer Jun ETF",
+  :inception-date "Oct 21, 2025",
+  :net-assets "47,028,532",
+  :net-assets-value 4.702853192E7,
+  :product-url
+  "/us/products/345807/ishares-large-cap-10-target-buffer-jun-etf"}
+ {:portfolio-id 345811,
+  :ticker "TENM",
+  :name "iShares Large Cap 10% Target Buffer Mar ETF",
+  :inception-date "Oct 21, 2025",
+  :net-assets "46,557,325",
+  :net-assets-value 4.655732495E7,
+  :product-url
+  "/us/products/345811/ishares-large-cap-10-target-buffer-mar-etf"}
+ {:portfolio-id 350032,
+  :ticker "IBGM",
+  :name "iShares® iBonds® Dec 2056 Term Treasury ETF",
+  :inception-date "Mar 25, 2026",
+  :net-assets "42,490,831",
+  :net-assets-value 4.249083086E7,
+  :product-url
+  "/us/products/350032/ishares-ibonds-dec-2056-term-treasury-etf"}
+ {:portfolio-id 346870,
+  :ticker "BALQ",
+  :name "iShares Nasdaq Premium Income Active ETF",
+  :inception-date "Dec 02, 2025",
+  :net-assets "42,388,693",
+  :net-assets-value 4.23886928E7,
+  :product-url
+  "/us/products/346870/ishares-nasdaq-premium-income-active-etf"}
+ {:portfolio-id 329561,
+  :ticker "BEMB",
+  :name "iShares J.P. Morgan Broad USD Emerging Markets Bond ETF",
+  :inception-date "Feb 22, 2023",
+  :net-assets "40,771,079",
+  :net-assets-value 4.077107863E7,
+  :product-url
+  "/us/products/329561/ishares-j-p-morgan-broad-usd-emerging-markets-bond-etf"}
+ {:portfolio-id 239691,
+  :ticker "EWUS",
+  :name "iShares MSCI United Kingdom Small-Cap ETF",
+  :inception-date "Jan 25, 2012",
+  :net-assets "40,693,419",
+  :net-assets-value 4.069341883E7,
+  :product-url
+  "/us/products/239691/ishares-msci-united-kingdom-small-cap-etf"}
+ {:portfolio-id 339083,
+  :ticker "TEK",
+  :name "iShares Technology Opportunities Active ETF",
+  :inception-date "Oct 21, 2024",
+  :net-assets "38,301,700",
+  :net-assets-value 3.830170049E7,
+  :product-url
+  "/us/products/339083/ishares-technology-opportunities-active-etf"}
+ {:portfolio-id 350229,
+  :ticker "IBMU",
+  :name "iShares® iBonds® Dec 2032 Term Muni Bond ETF",
+  :inception-date "Mar 25, 2026",
+  :net-assets "37,428,936",
+  :net-assets-value 3.742893626E7,
+  :product-url
+  "/us/products/350229/ishares-ibonds-dec-2032-term-muni-bond-etf"}
+ {:portfolio-id 340132,
+  :ticker "LDRI",
+  :name "iShares® iBonds® 1-5 Year TIPS Ladder ETF",
+  :inception-date "Nov 07, 2024",
+  :net-assets "37,333,465",
+  :net-assets-value 3.733346497E7,
+  :product-url
+  "/us/products/340132/ishares-ibonds-1-5-year-tips-ladder-etf"}
+ {:portfolio-id 342102,
+  :ticker "ISMF",
+  :name "iShares Managed Futures Active ETF",
+  :inception-date "Mar 12, 2025",
+  :net-assets "37,005,247",
+  :net-assets-value 3.700524671E7,
+  :product-url
+  "/us/products/342102/ishares-managed-futures-active-etf"}
+ {:portfolio-id 276532,
+  :ticker "BIRDX",
+  :name "iShares Developed Real Estate Index Fund",
+  :inception-date "Aug 13, 2015",
+  :net-assets "36,722,237",
+  :net-assets-value 3.672223728E7,
+  :product-url
+  "/us/products/276532/ishares-developed-real-estate-index-fund"}
+ {:portfolio-id 342115,
+  :ticker "IBHL",
+  :name "iShares® iBonds® 2032 Term High Yield and Income ETF",
+  :inception-date "Mar 25, 2025",
+  :net-assets "35,244,993",
+  :net-assets-value 3.52449934E7,
+  :product-url
+  "/us/products/342115/ishares-ibonds-2032-term-high-yield-and-income-etf"}
+ {:portfolio-id 325390,
+  :ticker "TCHI",
+  :name "iShares MSCI China Multisector Tech ETF",
+  :inception-date "Jan 25, 2022",
+  :net-assets "34,520,395",
+  :net-assets-value 3.452039451E7,
+  :product-url
+  "/us/products/325390/ishares-msci-china-multisector-tech-etf"}
+ {:portfolio-id 346525,
+  :ticker "BREM",
+  :name "iShares Emerging Markets Bond Active ETF",
+  :inception-date "Oct 15, 2025",
+  :net-assets "34,182,396",
+  :net-assets-value 3.418239647E7,
+  :product-url
+  "/us/products/346525/ishares-emerging-markets-bond-active-etf"}
+ {:portfolio-id 342676,
+  :ticker "TOPC",
+  :name "iShares S&P 500 3% Capped ETF",
+  :inception-date "Apr 15, 2025",
+  :net-assets "32,749,767",
+  :net-assets-value 3.274976671E7,
+  :product-url "/us/products/342676/ishares-s-p-500-3-capped-etf"}
+ {:portfolio-id 306663,
+  :ticker "BIDIX",
+  :name "iShares Municipal Bond Index Fund",
+  :inception-date "Nov 16, 2018",
+  :net-assets "32,734,473",
+  :net-assets-value 3.273447278E7,
+  :product-url "/us/products/306663/ishares-municipal-bond-index-fund"}
+ {:portfolio-id 312222,
+  :ticker "LDEM",
+  :name "iShares ESG MSCI EM Leaders ETF",
+  :inception-date "Feb 05, 2020",
+  :net-assets "31,189,622",
+  :net-assets-value 3.118962188E7,
+  :product-url "/us/products/312222/ishares-esg-msci-em-leaders-etf"}
+ {:portfolio-id 333575,
+  :ticker "ITDI",
+  :name "iShares® LifePath® Target Date 2065 ETF",
+  :inception-date "Oct 17, 2023",
+  :net-assets "30,057,066",
+  :net-assets-value 3.005706599E7,
+  :product-url
+  "/us/products/333575/ishares-lifepath-target-date-2065-etf"}
+ {:portfolio-id 349395,
+  :ticker "USLN",
+  :name "iShares Broad USD Floating Rate Loan ETF",
+  :inception-date "Mar 03, 2026",
+  :net-assets "29,819,822",
+  :net-assets-value 2.98198219E7,
+  :product-url
+  "/us/products/349395/ishares-broad-usd-floating-rate-loan-etf"}
+ {:portfolio-id 330808,
+  :ticker "EGUS",
+  :name "iShares ESG Aware MSCI USA Growth ETF",
+  :inception-date "Jan 31, 2023",
+  :net-assets "28,861,705",
+  :net-assets-value 2.886170499E7,
+  :product-url
+  "/us/products/330808/ishares-esg-aware-msci-usa-growth-etf"}
+ {:portfolio-id 347943,
+  :ticker "BTOT",
+  :name "iShares Total USD Fixed Income Market ETF",
+  :inception-date "Dec 10, 2025",
+  :net-assets "28,844,306",
+  :net-assets-value 2.884430593E7,
+  :product-url
+  "/us/products/347943/ishares-total-usd-fixed-income-market-etf"}
+ {:portfolio-id 339694,
+  :ticker "QNXT",
+  :name "iShares Nasdaq-100 ex Top 30 ETF",
+  :inception-date "Oct 23, 2024",
+  :net-assets "27,574,613",
+  :net-assets-value 2.757461342E7,
+  :product-url "/us/products/339694/ishares-nasdaq-100-ex-top-30-etf"}
+ {:portfolio-id 347171,
+  :ticker "ICPI",
+  :name "iShares 0-1 Year TIPS Bond ETF",
+  :inception-date "Nov 19, 2025",
+  :net-assets "26,673,801",
+  :net-assets-value 2.667380087E7,
+  :product-url "/us/products/347171/ishares-0-1-year-tips-bond-etf"}
+ {:portfolio-id 333404,
+  :ticker "ISTM",
+  :name "iShares Strategic Metals ETF",
+  :inception-date "Sep 26, 2023",
+  :net-assets "25,196,561",
+  :net-assets-value 2.519656149E7,
+  :product-url "/us/products/333404/ishares-strategic-metals-etf"}
+ {:portfolio-id 340126,
+  :ticker "LDRH",
+  :name "iShares® iBonds® 1-5 Year High Yield and Income Ladder ETF",
+  :inception-date "Nov 07, 2024",
+  :net-assets "24,956,434",
+  :net-assets-value 2.495643444E7,
+  :product-url
+  "/us/products/340126/ishares-ibonds-1-5-year-high-yield-and-income-ladder-etf"}
+ {:portfolio-id 344551,
+  :ticker "XOEF",
+  :name "iShares S&P 500 ex S&P 100 ETF",
+  :inception-date "Jul 08, 2025",
+  :net-assets "22,768,202",
+  :net-assets-value 2.276820226E7,
+  :product-url "/us/products/344551/ishares-s-p-500-ex-s-p-100-etf"}
+ {:portfolio-id 340800,
+  :ticker "TWOX",
+  :name "iShares Large Cap Accelerated Outcome ETF",
+  :inception-date "Jan 15, 2025",
+  :net-assets "22,692,250",
+  :net-assets-value 2.269224972E7,
+  :product-url
+  "/us/products/340800/ishares-large-cap-accelerated-outcome-etf"}
+ {:portfolio-id 350118,
+  :ticker "IBMV",
+  :name "iShares® iBonds® Dec 2033 Term Muni Bond ETF",
+  :inception-date "Mar 25, 2026",
+  :net-assets "22,356,845",
+  :net-assets-value 2.235684468E7,
+  :product-url
+  "/us/products/350118/ishares-ibonds-dec-2033-term-muni-bond-etf"}
+ {:portfolio-id 349384,
+  :ticker "ENHI",
+  :name "iShares Enhanced International Active ETF",
+  :inception-date "Mar 10, 2026",
+  :net-assets "21,212,404",
+  :net-assets-value 2.121240383E7,
+  :product-url
+  "/us/products/349384/ishares-enhanced-international-active-etf"}
+ {:portfolio-id 350233,
+  :ticker "IBMX",
+  :name "iShares® iBonds® Dec 2035 Term Muni Bond ETF",
+  :inception-date "Apr 14, 2026",
+  :net-assets "20,814,995",
+  :net-assets-value 2.08149946E7,
+  :product-url
+  "/us/products/350233/ishares-ibonds-dec-2035-term-muni-bond-etf"}
+ {:portfolio-id 346691,
+  :ticker "EUIG",
+  :name "iShares Euro Investment Grade Corporate Bond USD Hedged ETF",
+  :inception-date "Nov 04, 2025",
+  :net-assets "20,620,943",
+  :net-assets-value 2.062094267E7,
+  :product-url
+  "/us/products/346691/ishares-euro-investment-grade-corporate-bond-usd-hedged-etf"}
+ {:portfolio-id 350096,
+  :ticker "IBHM",
+  :name "iShares® iBonds® 2033 Term High Yield and Income ETF",
+  :inception-date "Mar 25, 2026",
+  :net-assets "19,454,204",
+  :net-assets-value 1.945420421E7,
+  :product-url
+  "/us/products/350096/ishares-ibonds-2033-term-high-yield-and-income-etf"}
+ {:portfolio-id 338704,
+  :ticker "EVLU",
+  :name "iShares MSCI Emerging Markets Value Factor ETF",
+  :inception-date "Sep 04, 2024",
+  :net-assets "18,760,844",
+  :net-assets-value 1.876084442E7,
+  :product-url
+  "/us/products/338704/ishares-msci-emerging-markets-value-factor-etf"}
+ {:portfolio-id 344021,
+  :ticker "TEXN",
+  :name "iShares Texas Equity ETF",
+  :inception-date "Jun 23, 2025",
+  :net-assets "18,720,676",
+  :net-assets-value 1.872067572E7,
+  :product-url "/us/products/344021/ishares-texas-equity-etf"}
+ {:portfolio-id 350231,
+  :ticker "IBMW",
+  :name "iShares® iBonds® Dec 2034 Term Muni Bond ETF",
+  :inception-date "Apr 07, 2026",
+  :net-assets "18,525,690",
+  :net-assets-value 1.852568985E7,
+  :product-url
+  "/us/products/350231/ishares-ibonds-dec-2034-term-muni-bond-etf"}
+ {:portfolio-id 340178,
+  :ticker "ITDJ",
+  :name "iShares® LifePath® Target Date 2070 ETF",
+  :inception-date "Nov 12, 2024",
+  :net-assets "16,878,824",
+  :net-assets-value 1.687882411E7,
+  :product-url
+  "/us/products/340178/ishares-lifepath-target-date-2070-etf"}
+ {:portfolio-id 306662,
+  :ticker "BIDAX",
+  :name "iShares Municipal Bond Index Fund",
+  :inception-date "Nov 16, 2018",
+  :net-assets "16,245,129",
+  :net-assets-value 1.624512913E7,
+  :product-url "/us/products/306662/ishares-municipal-bond-index-fund"}
+ {:portfolio-id 298425,
+  :ticker "BMOPX",
+  :name "iShares U.S. Aggregate Bond Index Fund",
+  :inception-date "Aug 06, 2018",
+  :net-assets "15,138,171",
+  :net-assets-value 1.513817067E7,
+  :product-url
+  "/us/products/298425/ishares-u-s-aggregate-bond-index-fund"}
+ {:portfolio-id 316007,
+  :ticker "BMED",
+  :name "iShares Health Innovation Active ETF",
+  :inception-date "Sep 29, 2020",
+  :net-assets "14,429,469",
+  :net-assets-value 1.442946894E7,
+  :product-url
+  "/us/products/316007/ishares-health-innovation-active-etf"}
+ {:portfolio-id 354128,
+  :ticker "RBTX",
+  :name "iShares Future Robotics and Related Technologies Active ETF",
+  :inception-date "Oct 20, 2026",
+  :net-assets "13,921,141",
+  :net-assets-value 1.39211405E7,
+  :product-url
+  "/us/products/354128/ishares-future-robotics-and-related-technologies-active-etf"}
+ {:portfolio-id 329687,
+  :ticker "ERET",
+  :name "iShares Environmentally Aware Real Estate ETF",
+  :inception-date "Nov 15, 2022",
+  :net-assets "13,426,109",
+  :net-assets-value 1.342610889E7,
+  :product-url
+  "/us/products/329687/ishares-environmentally-aware-real-estate-etf"}
+ {:portfolio-id 239735,
+  :ticker "EMIF",
+  :name "iShares Emerging Markets Infrastructure ETF",
+  :inception-date "Jun 16, 2009",
+  :net-assets "13,131,388",
+  :net-assets-value 1.313138824E7,
+  :product-url
+  "/us/products/239735/ishares-emerging-markets-infrastructure-etf"}
+ {:portfolio-id 342124,
+  :ticker "IBGB",
+  :name "iShares® iBonds® Dec 2045 Term Treasury ETF",
+  :inception-date "Mar 25, 2025",
+  :net-assets "12,767,703",
+  :net-assets-value 1.276770306E7,
+  :product-url
+  "/us/products/342124/ishares-ibonds-dec-2045-term-treasury-etf"}
+ {:portfolio-id 338701,
+  :ticker "EQLT",
+  :name "iShares MSCI Emerging Markets Quality Factor ETF",
+  :inception-date "Sep 04, 2024",
+  :net-assets "10,839,877",
+  :net-assets-value 1.083987743E7,
+  :product-url
+  "/us/products/338701/ishares-msci-emerging-markets-quality-factor-etf"}
+ {:portfolio-id 332281,
+  :ticker "ILIT",
+  :name "iShares Lithium Miners and Producers ETF",
+  :inception-date "Jun 21, 2023",
+  :net-assets "9,937,280",
+  :net-assets-value 9937280.41,
+  :product-url
+  "/us/products/332281/ishares-lithium-miners-and-producers-etf"}
+ {:portfolio-id 353595,
+  :ticker "ENHE",
+  :name "iShares Enhanced Emerging Markets Active ETF",
+  :inception-date "Sep 29, 2026",
+  :net-assets "9,681,473",
+  :net-assets-value 9681472.62,
+  :product-url
+  "/us/products/353595/ishares-enhanced-emerging-markets-active-etf"}
+ {:portfolio-id 346694,
+  :ticker "ENHU",
+  :name "iShares Enhanced Large Cap Core Active ETF",
+  :inception-date "Nov 04, 2025",
+  :net-assets "9,538,778",
+  :net-assets-value 9538778.46,
+  :product-url
+  "/us/products/346694/ishares-enhanced-large-cap-core-active-etf"}
+ {:portfolio-id 337538,
+  :ticker "BGRO",
+  :name "iShares Large Cap Growth Active ETF",
+  :inception-date "Jun 04, 2024",
+  :net-assets "9,207,888",
+  :net-assets-value 9207887.51,
+  :product-url
+  "/us/products/337538/ishares-large-cap-growth-active-etf"}
+ {:portfolio-id 329128,
+  :ticker "BPAY",
+  :name "iShares FinTech Active ETF",
+  :inception-date "Aug 16, 2022",
+  :net-assets "8,756,933",
+  :net-assets-value 8756932.95,
+  :product-url "/us/products/329128/ishares-fintech-active-etf"}
+ {:portfolio-id 321324,
+  :ticker "ESMV",
+  :name "iShares ESG Optimized MSCI USA Min Vol Factor ETF",
+  :inception-date "Nov 02, 2021",
+  :net-assets "8,046,541",
+  :net-assets-value 8046540.6,
+  :product-url
+  "/us/products/321324/ishares-esg-optimized-msci-usa-min-vol-factor-etf"}
+ {:portfolio-id 282302,
+  :ticker "BAIPX",
+  :name "iShares Short-Term TIPS Bond Index Fund",
+  :inception-date "Feb 16, 2016",
+  :net-assets "7,820,107",
+  :net-assets-value 7820107.29,
+  :product-url
+  "/us/products/282302/ishares-short-term-tips-bond-index-fund"}
+ {:portfolio-id 350089,
+  :ticker "SQLT",
+  :name "iShares MSCI USA Small-Cap Quality Factor ETF",
+  :inception-date "Mar 31, 2026",
+  :net-assets "6,840,418",
+  :net-assets-value 6840418.16,
+  :product-url
+  "/us/products/350089/ishares-msci-usa-small-cap-quality-factor-etf"}
+ {:portfolio-id 329137,
+  :ticker "IBRN",
+  :name "iShares Neuroscience and Healthcare ETF",
+  :inception-date "Aug 24, 2022",
+  :net-assets "6,493,141",
+  :net-assets-value 6493140.99,
+  :product-url
+  "/us/products/329137/ishares-neuroscience-and-healthcare-etf"}
+ {:portfolio-id 330188,
+  :ticker "EFRA",
+  :name "iShares Environmental Infrastructure and Industrials ETF",
+  :inception-date "Nov 01, 2022",
+  :net-assets "5,696,101",
+  :net-assets-value 5696100.88,
+  :product-url
+  "/us/products/330188/ishares-environmental-infrastructure-and-industrials-etf"}
+ {:portfolio-id 342146,
+  :ticker "IBGL",
+  :name "iShares® iBonds® Dec 2055 Term Treasury ETF",
+  :inception-date "Mar 25, 2025",
+  :net-assets "5,675,584",
+  :net-assets-value 5675584.05,
+  :product-url
+  "/us/products/342146/ishares-ibonds-dec-2055-term-treasury-etf"}
+ {:portfolio-id 337749,
+  :ticker "IBGK",
+  :name "iShares® iBonds® Dec 2054 Term Treasury ETF",
+  :inception-date "Jun 11, 2024",
+  :net-assets "5,522,334",
+  :net-assets-value 5522334.14,
+  :product-url
+  "/us/products/337749/ishares-ibonds-dec-2054-term-treasury-etf"}
+ {:portfolio-id 350682,
+  :ticker "GOVM",
+  :name "iShares 1-10 Year Treasury Bond ETF",
+  :inception-date "May 12, 2026",
+  :net-assets "4,919,927",
+  :net-assets-value 4919926.87,
+  :product-url
+  "/us/products/350682/ishares-1-10-year-treasury-bond-etf"}
+ {:portfolio-id 331244,
+  :ticker "ETEC",
+  :name "iShares Breakthrough Environmental Solutions ETF",
+  :inception-date "Mar 28, 2023",
+  :net-assets "3,560,374",
+  :net-assets-value 3560373.61,
+  :product-url
+  "/us/products/331244/ishares-breakthrough-environmental-solutions-etf"}
+ {:portfolio-id 276531,
+  :ticker "BARDX",
+  :name "iShares Developed Real Estate Index Fund",
+  :inception-date "Aug 13, 2015",
+  :net-assets "3,190,381",
+  :net-assets-value 3190381.2,
+  :product-url
+  "/us/products/276531/ishares-developed-real-estate-index-fund"}
+ {:portfolio-id 306664,
+  :ticker "BIDKX",
+  :name "iShares Municipal Bond Index Fund",
+  :inception-date "Nov 16, 2018",
+  :net-assets "238,450",
+  :net-assets-value 238449.85,
+  :product-url "/us/products/306664/ishares-municipal-bond-index-fund"}]

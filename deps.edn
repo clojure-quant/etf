@@ -1,0 +1,11 @@
+{:paths ["src" "resources"]
+ :deps {org.clojure/clojure {:mvn/version "1.12.0"}
+        org.clj-commons/hickory {:mvn/version "0.7.7"}
+        cheshire/cheshire {:mvn/version "5.13.0"}}
+ :aliases
+ {:run {:main-opts ["-m" "etf.core"]}
+  :download-universe {:exec-fn etf.core/download-universe
+                      :exec-args {:out "data/etf-universe.edn"}}
+  :download-current-date {:exec-fn etf.download/download-current-date}
+  :test {:extra-paths ["test"]
+         :main-opts ["-m" "etf.test-runner"]}}}
