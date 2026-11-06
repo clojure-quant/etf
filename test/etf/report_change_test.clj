@@ -78,6 +78,43 @@
       (finally
         (delete-fixture! dir)))))
 
+(deftest percent-changes-are-relative-to-prior
+  (let [dir (temp-dir)]
+    (write-fixture! dir)
+    (try
+      (is (= [{:ticker "AAA" :share-change 20.0}
+              {:ticker "CCC" :share-change 100.0}]
+             (rc/daily-change dir "2026-11-03" "2026-11-04" {:percent true})))
+      (is (= [{:ticker "AAA" :share-change 20.0 :day "2026-11-03"}
+              {:ticker "CCC" :share-change 100.0 :day "2026-11-03"}
+              {:ticker "CCC" :share-change 50.0 :day "2026-11-04"}]
+             (rc/aggregate-daily-changes dir {:percent true})))
+      (let [result (volatile! nil)]
+        (with-out-str
+          (vreset! result (rc/show-pivot (rc/aggregate-daily-changes dir {:percent true}))))
+        (is (= [{:ticker "AAA" "2026-11-03" 20.0 "2026-11-04" nil}
+                {:ticker "CCC" "2026-11-03" 100.0 "2026-11-04" 50.0}]
+               @result)))
+      (finally
+        (delete-fixture! dir)))))
+
+(deftest percent-skips-zero-prior
+  (let [dir (temp-dir)]
+    (write-snapshot! dir "day-2026-11-03.edn"
+                     [{:ticker "ZERO" :date "2026-11-02" :shares-outstanding 0}
+                      {:ticker "OK" :date "2026-11-02" :shares-outstanding 2}])
+    (write-snapshot! dir "day-2026-11-04.edn"
+                     [{:ticker "ZERO" :date "2026-11-03" :shares-outstanding 5}
+                      {:ticker "OK" :date "2026-11-03" :shares-outstanding 3}])
+    (try
+      (is (= [{:ticker "OK" :share-change 50.0}]
+             (rc/daily-change dir "2026-11-03" "2026-11-04" {:percent true})))
+      (is (= [{:ticker "OK" :share-change 1}
+              {:ticker "ZERO" :share-change 5}]
+             (rc/daily-change dir "2026-11-03" "2026-11-04")))
+      (finally
+        (delete-fixture! dir)))))
+
 (deftest show-pivot-pivots-changes-by-ticker-and-day
   (let [dir (temp-dir)]
     (write-fixture! dir)
@@ -90,5 +127,44 @@
                @result))
         (is (re-find #"AAA" printed))
         (is (re-find #"2026-11-03" printed)))
+      (finally
+        (delete-fixture! dir)))))
+
+(deftest percent-pivot-keeps-only-rows-with-a-change-of-at-least-one-percent
+  (let [dir (temp-dir)]
+    (write-snapshot! dir "day-2026-11-03.edn"
+                     [{:ticker "BIG" :date "2026-11-02" :shares-outstanding 100}
+                      {:ticker "SMALL" :date "2026-11-02" :shares-outstanding 1000}])
+    (write-snapshot! dir "day-2026-11-04.edn"
+                     [{:ticker "BIG" :date "2026-11-03" :shares-outstanding 102}
+                      {:ticker "SMALL" :date "2026-11-03" :shares-outstanding 1001}])
+    (write-snapshot! dir "day-2026-11-05.edn"
+                     [{:ticker "BIG" :date "2026-11-04" :shares-outstanding 103}
+                      {:ticker "SMALL" :date "2026-11-04" :shares-outstanding 1002}])
+    (try
+      (let [result (volatile! nil)]
+        (with-out-str
+          (vreset! result (rc/show-pivot (rc/aggregate-daily-changes dir {:percent true})
+                                         {:percent true})))
+        (is (= [{:ticker "BIG"
+                 "2026-11-03" 2.0
+                 "2026-11-04" 1.0}]
+               @result)))
+      (let [absolute (volatile! nil)]
+        (with-out-str
+          (vreset! absolute (rc/show-pivot (rc/aggregate-daily-changes dir))))
+        (is (= ["BIG" "SMALL"] (mapv :ticker @absolute))))
+      (finally
+        (delete-fixture! dir)))))
+
+(deftest percent-values-are-rounded-to-one-decimal
+  (let [dir (temp-dir)]
+    (write-snapshot! dir "day-2026-11-03.edn"
+                     [{:ticker "T" :date "2026-11-02" :shares-outstanding 300}])
+    (write-snapshot! dir "day-2026-11-04.edn"
+                     [{:ticker "T" :date "2026-11-03" :shares-outstanding 301}])
+    (try
+      (is (= [{:ticker "T" :share-change 0.3}]
+             (rc/daily-change dir "2026-11-03" "2026-11-04" {:percent true})))
       (finally
         (delete-fixture! dir)))))

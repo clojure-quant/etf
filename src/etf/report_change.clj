@@ -94,14 +94,22 @@
     {:day    (:date (first rows))
      :shares (into {} (map (juxt :ticker :shares-outstanding)) rows)}))
 
+(defn- round-percent
+  "Round a percentage to one decimal place."
+  [x]
+  (/ (Math/round (* 10.0 (double x))) 10.0))
+
 (defn- daily-changes
   "Changes between two snapshots, tagged with the current snapshot's trading
   day. Returns {:day <current :date> :changes [{:ticker :share-change}]}.
 
   Only tickers present in both snapshots with numeric, differing
   shares-outstanding are reported; a ticker present in just one snapshot is
-  not a change."
-  [dir day-prior day-current]
+  not a change. With opts {:percent true}, :share-change is
+  (current - prior) / prior * 100.0, rounded to one decimal, instead of
+  (current - prior); a prior of zero is skipped because the percentage change
+  is undefined."
+  [dir day-prior day-current {:keys [percent]}]
   (let [prior        (read-snapshot-shares (snapshot-file dir day-prior))
         current      (read-snapshot-shares (snapshot-file dir day-current))
         prior-shares (:shares prior)
@@ -111,8 +119,12 @@
                                     (when (and (contains? prior-shares ticker)
                                                (number? old)
                                                (number? shares)
-                                               (not= old shares))
-                                      {:ticker ticker :share-change (- shares old)}))))
+                                               (not= old shares)
+                                               (or (not percent) (not (zero? old))))
+                                      {:ticker ticker
+                                       :share-change (if percent
+                                                       (round-percent (* 100.0 (/ (- shares old) old)))
+                                                       (- shares old))}))))
                           (sort-by :ticker)
                           vec)]
     {:day (:day current) :changes changes}))
@@ -127,11 +139,15 @@
   both snapshots whose shares differ.
 
   With two arguments the snapshots are read from `default-data-dir`; the
-  three-argument arity reads from `dir`."
+  three-argument arity reads from `dir`. Opts may set :percent true to return
+  the change as a percentage of the prior value ((current - prior) / prior *
+  100.0), rounded to one decimal."
   ([day-prior day-current]
    (daily-change default-data-dir day-prior day-current))
   ([dir day-prior day-current]
-   (:changes (daily-changes dir day-prior day-current))))
+   (daily-change dir day-prior day-current {}))
+  ([dir day-prior day-current opts]
+   (:changes (daily-changes dir day-prior day-current opts))))
 
 (defn- file-date
   "ISO date embedded in a day-YYYY-MM-DD.edn filename, or nil."
@@ -157,14 +173,21 @@
 
   Each entry is {:ticker <string> :day <current snapshot :date>
   :share-change <current - prior>}. With no argument the snapshots come from
-  `default-data-dir`; `dir` overrides it."
+  `default-data-dir`; `dir` overrides it. Opts may set :percent true to return
+  each :share-change as a percentage of the prior value."
   ([] (aggregate-daily-changes default-data-dir))
-  ([dir]
+  ([dir] (aggregate-daily-changes dir {}))
+  ([dir opts]
    (->> (change-jobs dir)
         (mapcat (fn [{:keys [day-prior day-current]}]
-                  (let [{:keys [day changes]} (daily-changes dir day-prior day-current)]
+                  (let [{:keys [day changes]} (daily-changes dir day-prior day-current opts)]
                     (map #(assoc % :day day) changes))))
         vec)))
+
+(def min-percent-change
+  "In percent mode, a pivot row is kept only if at least one day changed by at
+  least this many percent (in absolute value)."
+  1.0)
 
 (defn show-pivot
   "Build and print a pivot table of daily share changes.
@@ -172,23 +195,38 @@
   Columns are :ticker followed by each day in ascending order; rows are one
   map per ticker, with the :share-change for that day (nil when the ticker did
   not change that day, printed as a blank cell). Prints the table with
-  clojure.pprint/print-table and returns the row maps."
-  [aggregate-daily-changes]
-  (let [days      (->> aggregate-daily-changes (map :day) distinct sort vec)
-        by-ticker (group-by :ticker aggregate-daily-changes)
-        rows      (mapv (fn [ticker]
-                          (let [changes (into {} (map (juxt :day :share-change))
-                                              (get by-ticker ticker))]
-                            (into (array-map :ticker ticker)
-                                  (map (fn [day] [day (get changes day)]) days))))
-                        (sort (keys by-ticker)))]
-    (pprint/print-table (into [:ticker] days) rows)
-    rows))
+  clojure.pprint/print-table and returns the row maps.
+
+  Opts may set :percent true when the aggregate holds percentage changes; then
+  only tickers with at least one day changing by >= `min-percent-change` are
+  shown (all of a kept ticker's days are still shown)."
+  ([aggregate-daily-changes]
+   (show-pivot aggregate-daily-changes {}))
+  ([aggregate-daily-changes {:keys [percent]}]
+   (let [days      (->> aggregate-daily-changes (map :day) distinct sort vec)
+         by-ticker (group-by :ticker aggregate-daily-changes)
+         by-ticker (if percent
+                     (into {} (filter (fn [[_ entries]]
+                                        (some #(>= (Math/abs (double (:share-change %)))
+                                                   min-percent-change)
+                                              entries)))
+                           by-ticker)
+                     by-ticker)
+         rows      (mapv (fn [ticker]
+                           (let [changes (into {} (map (juxt :day :share-change))
+                                               (get by-ticker ticker))]
+                             (into (array-map :ticker ticker)
+                                   (map (fn [day] [day (get changes day)]) days))))
+                         (sort (keys by-ticker)))]
+     (pprint/print-table (into [:ticker] days) rows)
+     rows)))
 
 (defn report-pivot
   "Print the pivot table of daily :shares-outstanding changes.
 
   Supports -X execution:  clojure -X:show-pivot
-  Optional :dir overrides the snapshot directory (default \"data\")."
-  [{:keys [dir] :or {dir default-data-dir}}]
-  (show-pivot (aggregate-daily-changes dir)))
+  Options:
+    :dir     snapshot directory (default \"data\")
+    :percent true to show each change as a percentage of the prior value"
+  [{:keys [dir percent] :or {dir default-data-dir}}]
+  (show-pivot (aggregate-daily-changes dir {:percent percent}) {:percent percent}))

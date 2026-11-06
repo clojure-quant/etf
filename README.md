@@ -58,6 +58,9 @@ clojure -X:report-change
 
 # Pivot daily :shares-outstanding changes by ticker and day
 clojure -X:show-pivot
+
+# Percent pivot (rounded to 1 decimal), keeping only tickers with a >=1% change on some day
+clojure -X:show-pivot :percent true
 ```
 
 Options:
