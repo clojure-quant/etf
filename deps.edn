@@ -7,5 +7,7 @@
   :download-universe {:exec-fn etf.core/download-universe
                       :exec-args {:out "data/etf-universe.edn"}}
   :download-current-date {:exec-fn etf.download/download-current-date}
+  :report-change {:exec-fn etf.report-change/report-changes}
+  :show-pivot {:exec-fn etf.report-change/report-pivot}
   :test {:extra-paths ["test"]
          :main-opts ["-m" "etf.test-runner"]}}}

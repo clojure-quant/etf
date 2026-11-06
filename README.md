@@ -49,6 +49,15 @@ clojure -M:run -s html -n 10 -f table -o etfs.html.json
 
 # Download the whole ETF universe to data/etf-universe.edn
 clojure -X:download-universe
+
+# Download the current daily snapshot to data/day-<date>.edn
+clojure -X:download-current-date
+
+# Report tickers whose :shares-outstanding changed across data/day*.edn
+clojure -X:report-change
+
+# Pivot daily :shares-outstanding changes by ticker and day
+clojure -X:show-pivot
 ```
 
 Options:
@@ -84,6 +93,7 @@ src/etf/http.clj       minimal java.net.http GET helper
 src/etf/screener.clj   product-screener JSON API -> fund maps
 src/etf/product.clj    hickory fund-page scraper (schema.org JSON-LD)
 src/etf/core.clj       CLI, sources and output formats
+src/etf/report_change.clj  changed :shares-outstanding across daily snapshots
 test/etf/*             unit tests with inline fixtures (no network)
 ```
 

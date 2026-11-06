@@ -24,7 +24,7 @@
   :net-assets 17714561737}
  {:ticker "AGG",
   :date "2026-11-02",
-  :shares-outstanding 1450900000,
+  :shares-outstanding 1450900000, 
   :number-of-holdings 13453,
   :30-d-avg-volume 11921301,
   :net-assets 139555967442}
